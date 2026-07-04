@@ -1,0 +1,25 @@
+[project]
+name = "insightflow"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "docling>=2.108.0",
+    "faiss-cpu>=1.14.3",
+    "fastapi[standard]>=0.138.2",
+    "google-genai>=2.10.0",
+    "markdown>=3.10.2",
+    "networkx>=3.6.1",
+    "openpyxl>=3.1.5",
+    "pandas>=3.0.3",
+    "pymongo>=4.17.0",
+    "pymupdf>=1.28.0",
+    "pypdf>=6.14.2",
+    "python-docx>=1.2.0",
+    "python-dotenv>=1.2.2",
+    "requests>=2.34.2",
+    "sentence-transformers>=5.6.0",
+    "streamlit>=1.58.0",
+    "uuid>=1.30",
+]
