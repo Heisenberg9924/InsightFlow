@@ -104,7 +104,7 @@ Instead of relying solely on traditional Retrieval-Augmented Generation (RAG), I
 ```
 InsightFlow/
 │
-├── app/
+<!-- ├── app/ -->
 │   ├── api/
 │   ├── database/
 │   ├── parsers/

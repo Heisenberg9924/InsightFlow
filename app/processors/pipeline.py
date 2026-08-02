@@ -1,4 +1,4 @@
-from app.models.document import ParsedDocument
+from app.models import ParsedDocument
 from app.processors.cleaner import clean_text
 from app.processors.statistics import (
     count_words,
