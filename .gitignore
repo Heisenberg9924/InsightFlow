@@ -80,3 +80,5 @@ scripts/
 # ============================================
 
 .ipynb_checkpoints/
+
+app/parsers
