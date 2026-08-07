@@ -1,56 +1,27 @@
-from sentence_transformers import SentenceTransformer
+from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 import numpy as np
 
-from app.embeddings.models import EmbeddedKnowledgeUnit
-from app.knowledge_units.models import KnowledgeUnit
+from app.embeddings.models import EmbeddedNode
 
 
-class EmbeddingGenerator:
+embed_model = HuggingFaceEmbedding(
+    model_name="BAAI/bge-large-en-v1.5"
+    )
 
-    _model = None
-
-    def __init__(self, model_name: str = "BAAI/bge-small-en-v1.5"):
-
-        if EmbeddingGenerator._model is None:
-            EmbeddingGenerator._model = SentenceTransformer(model_name)
-
-        self.model = EmbeddingGenerator._model
-
-    # ---------------------------------------------------------
-
-    def embed(
-        self,
-        units: list[KnowledgeUnit]
-    ) -> list[EmbeddedKnowledgeUnit]:
-
-        embeddings = self.model.encode(
-            [unit.content for unit in units],
-            convert_to_numpy=True,
-            normalize_embeddings=True,
+def generate_embeddings(nodes):
+    embedded_nodes = []
+    for node in nodes:
+        embedding = np.array(embed_model.get_text_embedding(node.text), dtype = np.float32)
+        embedded_nodes.append(
+            EmbeddedNode(node=node, 
+                         embedding=embedding,
+                        )
         )
+    return embedded_nodes
 
-        return [
-            EmbeddedKnowledgeUnit(
-                knowledge_unit=unit,
-                embedding=embedding,
-            )
-            for unit, embedding in zip(units, embeddings)
-        ]
+def generate_query_embeddings(query: str):
+    return np.array(
+        embed_model.get_text_embedding(query),
+        dtype = np.float32,
+    )
 
-    # ---------------------------------------------------------
-
-    def embed_query(
-        self,
-        query: str,
-    ) -> np.ndarray:
-        """
-        Generate an embedding for a user query.
-        """
-
-        embedding = self.model.encode(
-            query,
-            convert_to_numpy=True,
-            normalize_embeddings=True,
-        )
-
-        return embedding.astype(np.float32)

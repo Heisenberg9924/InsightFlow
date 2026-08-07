@@ -1,13 +1,12 @@
 from dataclasses import dataclass
 
 import numpy as np
-
-from app.knowledge_units.models import KnowledgeUnit
+from llama_index.core.schema import BaseNode
 
 
 @dataclass
-class EmbeddedKnowledgeUnit:
+class EmbeddedNode:
 
-    knowledge_unit: KnowledgeUnit
+    node : BaseNode
 
     embedding: np.ndarray

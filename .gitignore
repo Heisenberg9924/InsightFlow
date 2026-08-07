@@ -82,3 +82,5 @@ scripts/
 .ipynb_checkpoints/
 
 app/parsers
+
+app/embeddings/vector_store.py
