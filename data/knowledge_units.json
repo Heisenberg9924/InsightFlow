@@ -1,0 +1,5595 @@
+[
+  {
+    "ku_id": "#/texts/1_ku_0",
+    "parent_id": "#/texts/1",
+    "content": "/phone +91 8944870019 | /envelope rayrupdeep7@gmail.com | /github github.com/Heisenberg9924 | /linkedin linkedin.com/in/rupdeep-ray",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "source_document": "Rupdeep_Ray_Resume_final.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/3_ku_0",
+    "parent_id": "#/texts/3",
+    "content": "National Institute of Technology, Durgapur, West Bengal",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "source_document": "Rupdeep_Ray_Resume_final.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/4_ku_0",
+    "parent_id": "#/texts/4",
+    "content": "B.Tech in Computer Science and Engineering",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "source_document": "Rupdeep_Ray_Resume_final.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/7_ku_0",
+    "parent_id": "#/texts/7",
+    "content": "Data Structures & Algorithms, Machine Learning, Probability & Statistics, Database Management Systems, Operating Systems, Object-Oriented Programming",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "source_document": "Rupdeep_Ray_Resume_final.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/11_ku_0",
+    "parent_id": "#/texts/11",
+    "content": "Machine Learning/Deep Learning: Scikit-learn, TensorFlow, XGBoost, CNN, LSTM/GRU, Transformers, SHAP LLM and AI Agents: LangChain, LangGraph, Model Context Protocol, Retrieval Augmented Generation, Multi-Agent Systems, Generative AI",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "source_document": "Rupdeep_Ray_Resume_final.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/13_ku_0",
+    "parent_id": "#/texts/13",
+    "content": "NLTK, spaCy, Text Classification, Named Entity Recognition",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "source_document": "Rupdeep_Ray_Resume_final.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/15_ku_0",
+    "parent_id": "#/texts/15",
+    "content": "FastAPI, Docker, Streamlit, REST APIs, Model Deployment",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "source_document": "Rupdeep_Ray_Resume_final.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/16_ku_0",
+    "parent_id": "#/texts/16",
+    "content": "Data Analysis and Visualization:",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "source_document": "Rupdeep_Ray_Resume_final.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/17_ku_0",
+    "parent_id": "#/texts/17",
+    "content": "NumPy, Pandas, Matplotlib, Seaborn",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "source_document": "Rupdeep_Ray_Resume_final.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/20_ku_0",
+    "parent_id": "#/texts/20",
+    "content": "Python, LangGraph, Scikit-learn, MCP",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "source_document": "Rupdeep_Ray_Resume_final.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/28_ku_0",
+    "parent_id": "#/texts/28",
+    "content": "Python, TensorFlow, OpenCV, Face Alignment, NumPy",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "source_document": "Rupdeep_Ray_Resume_final.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/3_ku_0",
+    "parent_id": "#/texts/3",
+    "content": "Jan Luxemburk a , b , Karel Hynek a , b , ∗ , Tomáš ˇ Cejka b , Andrej Luka ˇ covi ˇ c a , Pavel Šiška b",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/4_ku_0",
+    "parent_id": "#/texts/4",
+    "content": "a Faculty of Information Technology, CTU in Prague, Thakurova 9, Prague, 160 00, Czech Republic b CESNET, Zikova 4, Prague, 160 00, Czech Republic",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/6_ku_0",
+    "parent_id": "#/texts/6",
+    "content": "Article history: Received 19 December 2022 Revised 2 January 2023 Accepted 4 January 2023 Available online 9 January 2023",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/7_ku_0",
+    "parent_id": "#/texts/7",
+    "content": "Dataset link: CESNET-QUIC22: a large one-month QUIC network traffic dataset from backbone lines (Original data)",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/8_ku_0",
+    "parent_id": "#/texts/8",
+    "content": "Keywords: Network monitoring Traffic classification Encrypted traffic QUIC",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/10_ku_0",
+    "parent_id": "#/texts/10",
+    "content": "The QUIC (Quick UDP Internet Connection) protocol has the potential to replace TLS over TCP, which is the standard choice for reliable and secure Internet communication. Due to its design that makes the inspection of QUIC handshakes challenging and its usage in HTTP/3, there is an increasing demand for research in QUIC traffic analysis. This dataset contains one month of QUIC traffic collected in an ISP backbone network, which connects 500 large institutions and serves around half a million people. The data are delivered as enriched flows that can be useful for various network monitoring tasks. The provided server names and packet-level information allow research in the encrypted traffic classification area. Moreover, included QUIC versions and user agents (smartphone, web browser, and operating system identifiers) provide information for large-scale QUIC deployment studies.",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "parent_id": "#/texts/10",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/10_ku_1",
+    "parent_id": "#/texts/10",
+    "content": "© 2023 The Authors. Published by Elsevier Inc.",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "parent_id": "#/texts/10",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/11_ku_0",
+    "parent_id": "#/texts/11",
+    "content": "This is an open access article under the CC BY license",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/14_ku_0",
+    "parent_id": "#/texts/14",
+    "content": "Contents lists available at ScienceDirect",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/31_ku_0",
+    "parent_id": "#/texts/31",
+    "content": "tection gives a traffic classifier the power to detect those new or anomalous samples and label them as 'unknown'. Apart from the 102 service classes, our dataset includes three background classes, making it suitable for designing and evaluating novel OOD detection approaches for QUIC traffic.",
+    "metadata": {
+      "page": 3,
+      "block_type": "text",
+      "parent_id": "#/texts/31",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/33_ku_0",
+    "parent_id": "#/texts/33",
+    "content": "The QUIC protocol is gaining adoption across service providers and consumer software. Its usage as the transport protocol in HTTP/3 suggests its future mass usage.",
+    "metadata": {
+      "page": 3,
+      "block_type": "text",
+      "parent_id": "#/texts/33",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/33_ku_1",
+    "parent_id": "#/texts/33",
+    "content": "However, despite its apparent importance, no extensive QUIC datasets exist.",
+    "metadata": {
+      "page": 3,
+      "block_type": "text",
+      "parent_id": "#/texts/33",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/33_ku_2",
+    "parent_id": "#/texts/33",
+    "content": "Therefore, we created the CESNET-QUIC22 dataset containing one month of QUIC network traffic transmitted through the backbone lines of CESNET2, which is the Czech national research and educational network that serves half a million people. The real-world nature of the provided traffic and its extensive size create a unique and comprehensive dataset that enables research of the novel yet crucial QUIC protocol.",
+    "metadata": {
+      "page": 3,
+      "block_type": "text",
+      "parent_id": "#/texts/33",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/35_ku_0",
+    "parent_id": "#/texts/35",
+    "content": "The dataset consists of network flows describing encrypted QUIC communications. Flows are extended with packet metadata sequences, packet histograms, and with fields extracted from the QUIC Initial Packet, which is the first packet of the QUIC connection handshake. The extracted handshake fields are the Server Name Indication (SNI) domain, the used version of the QUIC protocol, and the user agent string that is available in a subset of QUIC communications.",
+    "metadata": {
+      "page": 3,
+      "block_type": "text",
+      "parent_id": "#/texts/35",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/35_ku_1",
+    "parent_id": "#/texts/35",
+    "content": "2 The next two sections describe two types of data features-the packet sequences, which provide information about the first 30 packets of a connection, and flow statistics, which describe the entire connection.",
+    "metadata": {
+      "page": 3,
+      "block_type": "text",
+      "parent_id": "#/texts/35",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/37_ku_0",
+    "parent_id": "#/texts/37",
+    "content": "Sequences of packet sizes, directions, and inter-packet times are standard data input for traffic analysis. For the packet sizes, we consider payload size after transport headers (UDP headers for the QUIC case).",
+    "metadata": {
+      "page": 3,
+      "block_type": "text",
+      "parent_id": "#/texts/37",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/37_ku_1",
+    "parent_id": "#/texts/37",
+    "content": "Packet directions are encoded as ± 1, where ' + 1 ' means a packet sent from client to server, and ' -1 ' a packet from server to client. Inter-packet times depend on the location of communicating hosts, their distance, and on the network conditions on the path. However, it is still possible to extract relevant information that correlates with user interactions and, for example, with the time required for an API/server/database to process the received data and generate the response to be sent in the next packet.",
+    "metadata": {
+      "page": 3,
+      "block_type": "text",
+      "parent_id": "#/texts/37",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/37_ku_2",
+    "parent_id": "#/texts/37",
+    "content": "Packet sequences have a maximum length of 30, which is the default setting of the used flow exporter.",
+    "metadata": {
+      "page": 3,
+      "block_type": "text",
+      "parent_id": "#/texts/37",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/38_ku_0",
+    "parent_id": "#/texts/38",
+    "content": "We also derive three fields from each packet sequence: its length, time duration, and the number of roundtrips. The roundtrips are counted as the number of changes in the communication direction (from packet directions data); in other words, each client request and server response pair counts as one roundtrip.",
+    "metadata": {
+      "page": 3,
+      "block_type": "text",
+      "parent_id": "#/texts/38",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/40_ku_0",
+    "parent_id": "#/texts/40",
+    "content": "Flows in the dataset also include standard flow statistics, which represent aggregated information about the entire bidirectional flow. The fields are: the number of transmitted bytes and packets in both directions, the duration of the flow, and packet histograms. The packet histograms include binned counts of packet sizes and inter-packet times of the entire flow in both directions.",
+    "metadata": {
+      "page": 3,
+      "block_type": "text",
+      "parent_id": "#/texts/40",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/40_ku_1",
+    "parent_id": "#/texts/40",
+    "content": "3 There are 8 bins with a logarithmic scale; the intervals are 0-15, 16-31, 32-63, 64127, 128-255, 256-511, 512-1024, > 1024 [ms or B].",
+    "metadata": {
+      "page": 3,
+      "block_type": "text",
+      "parent_id": "#/texts/40",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/40_ku_2",
+    "parent_id": "#/texts/40",
+    "content": "The units are milliseconds for inter-packet times and bytes for packet sizes.",
+    "metadata": {
+      "page": 3,
+      "block_type": "text",
+      "parent_id": "#/texts/40",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/40_ku_3",
+    "parent_id": "#/texts/40",
+    "content": "Moreover, each flow has its end reason-either it was idle, reached the active timeout, or ended due to other reasons.",
+    "metadata": {
+      "page": 3,
+      "block_type": "text",
+      "parent_id": "#/texts/40",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/40_ku_4",
+    "parent_id": "#/texts/40",
+    "content": "This corresponds with the official IANA IPFIX-specified values.",
+    "metadata": {
+      "page": 3,
+      "block_type": "text",
+      "parent_id": "#/texts/40",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/40_ku_5",
+    "parent_id": "#/texts/40",
+    "content": "4 The FLOW_ENDREASON_OTHER field represents the forced end and lack of resources reasons.",
+    "metadata": {
+      "page": 3,
+      "block_type": "text",
+      "parent_id": "#/texts/40",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/40_ku_6",
+    "parent_id": "#/texts/40",
+    "content": "The end of flow detected reason is not considered because it is not relevant for UDP connections.",
+    "metadata": {
+      "page": 3,
+      "block_type": "text",
+      "parent_id": "#/texts/40",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/46_ku_0",
+    "parent_id": "#/texts/46",
+    "content": "The dataset flows are delivered in compressed CSV files, which are organized as shown in Fig.",
+    "metadata": {
+      "page": 4,
+      "block_type": "text",
+      "parent_id": "#/texts/46",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/46_ku_1",
+    "parent_id": "#/texts/46",
+    "content": "1 . CSV files contain one flow per row; data columns are summarized in Table 1 . For each flow data file, there is a JSON file with the number of saved and seen (before sampling) flows per service and total counts of all received (observed on the CESNET2 network), service (belonging to one of the dataset's services), and saved (provided in the dataset) flows. There is also the stats-week.json file aggregating flow counts of a whole week, and the stats-dataset.json file aggregating flow counts for the entire dataset. Flow counts before sampling, which is described in more detail in Section 3.4 , can be used to compute sampling ratios of individual services and to resample the dataset back to the original service distribution. Moreover, various dataset statistics, such as feature distributions (see Fig. 3 ) and value counts of QUIC versions and user agents, are provided in the dataset-statistics folder.",
+    "metadata": {
+      "page": 4,
+      "block_type": "text",
+      "parent_id": "#/texts/46",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/46_ku_2",
+    "parent_id": "#/texts/46",
+    "content": "Table 2 shows per-week flow count, capture period, and uncompressed size.",
+    "metadata": {
+      "page": 4,
+      "block_type": "text",
+      "parent_id": "#/texts/46",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/56_ku_0",
+    "parent_id": "#/texts/56",
+    "content": "The data collection was performed using the monitoring infrastructure of the CESNET association, which is the operator of the CESNET2 national research and educational network.",
+    "metadata": {
+      "page": 5,
+      "block_type": "text",
+      "parent_id": "#/texts/56",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/56_ku_1",
+    "parent_id": "#/texts/56",
+    "content": "Most of the connected entities are large public organizations such as universities, campuses, high schools, research centers, hospitals, and municipal offices.",
+    "metadata": {
+      "page": 5,
+      "block_type": "text",
+      "parent_id": "#/texts/56",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/56_ku_2",
+    "parent_id": "#/texts/56",
+    "content": "The CESNET2 network has around half a million users and spans the whole Czech Republic; its topology is shown in Fig.",
+    "metadata": {
+      "page": 5,
+      "block_type": "text",
+      "parent_id": "#/texts/56",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/56_ku_3",
+    "parent_id": "#/texts/56",
+    "content": "4 .",
+    "metadata": {
+      "page": 5,
+      "block_type": "text",
+      "parent_id": "#/texts/56",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/57_ku_0",
+    "parent_id": "#/texts/57",
+    "content": "The monitoring infrastructure of the CESNET2 network follows the traditional IPFIX monitoring approach described in Hofstede et al. [",
+    "metadata": {
+      "page": 5,
+      "block_type": "text",
+      "parent_id": "#/texts/57",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/57_ku_1",
+    "parent_id": "#/texts/57",
+    "content": "12] .",
+    "metadata": {
+      "page": 5,
+      "block_type": "text",
+      "parent_id": "#/texts/57",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/57_ku_2",
+    "parent_id": "#/texts/57",
+    "content": "The five monitoring points are located in Prague, Brno, and Ostrava in the Czech Republic.",
+    "metadata": {
+      "page": 5,
+      "block_type": "text",
+      "parent_id": "#/texts/57",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/57_ku_3",
+    "parent_id": "#/texts/57",
+    "content": "Each is connected to a single or multiple 100 Gbps peering lines via passive optical TAPs.",
+    "metadata": {
+      "page": 5,
+      "block_type": "text",
+      "parent_id": "#/texts/57",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/57_ku_4",
+    "parent_id": "#/texts/57",
+    "content": "Since the monitoring infrastructure is distributed across multiple machines and locations, system clocks need to be synchronized to ensure accurate time features in monitoring data. The monitoring probes are synchronized using the NTP protocol to a single time server located at CESNET.",
+    "metadata": {
+      "page": 5,
+      "block_type": "text",
+      "parent_id": "#/texts/57",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/61_ku_0",
+    "parent_id": "#/texts/61",
+    "content": "The data capture workflow is visualized in Fig.",
+    "metadata": {
+      "page": 6,
+      "block_type": "text",
+      "parent_id": "#/texts/61",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/61_ku_1",
+    "parent_id": "#/texts/61",
+    "content": "5 .",
+    "metadata": {
+      "page": 6,
+      "block_type": "text",
+      "parent_id": "#/texts/61",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/61_ku_2",
+    "parent_id": "#/texts/61",
+    "content": "It can be divided into five steps: 1) Service Selection, 2) Flow Enrichment and Export, 3) Flow Collection and Filtration, 4) Flow Sampling, and finally, 5) Anonymization.",
+    "metadata": {
+      "page": 6,
+      "block_type": "text",
+      "parent_id": "#/texts/61",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/63_ku_0",
+    "parent_id": "#/texts/63",
+    "content": "For building the dataset, we decided to select a diverse and representative subset of web services that could be observed in the CESNET2 network.",
+    "metadata": {
+      "page": 6,
+      "block_type": "text",
+      "parent_id": "#/texts/63",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/63_ku_1",
+    "parent_id": "#/texts/63",
+    "content": "The selection of the services was based on the following criteria:",
+    "metadata": {
+      "page": 6,
+      "block_type": "text",
+      "parent_id": "#/texts/63",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/64_ku_0",
+    "parent_id": "#/texts/64",
+    "content": "Traffic volume We prioritized web services with larger traffic volumes so that the dataset covers the majority of real network traffic. The selected web services cover 84% of all QUIC traffic in the CESNET2 network.",
+    "metadata": {
+      "page": 6,
+      "block_type": "text",
+      "parent_id": "#/texts/64",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/65_ku_0",
+    "parent_id": "#/texts/65",
+    "content": "Diversity We selected diverse web services to capture various types of QUIC traffic. The dataset services can be divided into 17 categories. The distribution of service categories, the number of samples, and the traffic volume per category are shown in Fig.",
+    "metadata": {
+      "page": 6,
+      "block_type": "text",
+      "parent_id": "#/texts/65",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/65_ku_1",
+    "parent_id": "#/texts/65",
+    "content": "2 .",
+    "metadata": {
+      "page": 6,
+      "block_type": "text",
+      "parent_id": "#/texts/65",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/66_ku_0",
+    "parent_id": "#/texts/66",
+    "content": "The selected services were recognized using Server Name Indication (SNI) domains that were extracted from the QUIC connection handshake. To find the domains associated with a service, we searched its online documentation. In some cases, we found a docpage with 'whitelist domains for network and firewall settings', which contained all the service's domains. In other cases, we used Netify's Application Lookup Tool.",
+    "metadata": {
+      "page": 6,
+      "block_type": "text",
+      "parent_id": "#/texts/66",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/66_ku_1",
+    "parent_id": "#/texts/66",
+    "content": "5 For the rest, we analyzed SNI values observed in the network and handpicked the domains. The created SNI-service mapping was used for assigning labels to the captured flow data. Each selected web service represents its own traffic class that can be used in traffic classification tasks. Moreover, we organize services with the same provider into groups, such as Google services or Facebook (Meta) services, to allow serviceprovider classification tasks.",
+    "metadata": {
+      "page": 6,
+      "block_type": "text",
+      "parent_id": "#/texts/66",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/148_ku_0",
+    "parent_id": "#/texts/148",
+    "content": "On top of the selected web services, we also captured background traffic-i.e., traffic not belonging to none of the selected services. The background traffic allows network classifiers to be evaluated in open-world scenarios, where the classifier needs to deal with traffic classes that were not available during training. We decided to split the background traffic into three classes. The Google Background class contains the traffic of not-selected Google services, Facebook Background contains the traffic of not-selected Facebook services, and Default Background contains the traffic of the remaining QUIC web services that are present in the CESNET2 network.",
+    "metadata": {
+      "page": 7,
+      "block_type": "text",
+      "parent_id": "#/texts/148",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/148_ku_1",
+    "parent_id": "#/texts/148",
+    "content": "This separation allows the evaluation of more granular and detailed openworld scenarios.",
+    "metadata": {
+      "page": 7,
+      "block_type": "text",
+      "parent_id": "#/texts/148",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/150_ku_0",
+    "parent_id": "#/texts/150",
+    "content": "Each monitoring point was installed with ipfixprobe, 6 which is a high-performance bidirectional flow exporter capable of processing 100 Gbps traffic while exporting extended flow features. We used ipfixprobe's QUIC plugin, which performs deep packet inspection. When the QUIC plugin detects a QUIC connection handshake, it enriches the flow with the SNI domain, QUIC version, and user agent if available.",
+    "metadata": {
+      "page": 7,
+      "block_type": "text",
+      "parent_id": "#/texts/150",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/150_ku_1",
+    "parent_id": "#/texts/150",
+    "content": "We also used the PSTATS plugin, which exports metadata statistics (size, direction, and inter-packet time) about the first 30 packets of each flow.",
+    "metadata": {
+      "page": 7,
+      "block_type": "text",
+      "parent_id": "#/texts/150",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/150_ku_2",
+    "parent_id": "#/texts/150",
+    "content": "The length of 30 is a tradeoff between the performance and link bandwidth limitations and the need for longer sequences for more accurate predictions.",
+    "metadata": {
+      "page": 7,
+      "block_type": "text",
+      "parent_id": "#/texts/150",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/150_ku_3",
+    "parent_id": "#/texts/150",
+    "content": "The last used plugin was the PHISTS plugin, which exports histograms of packet sizes and inter-packet times of each flow (histograms are not limited to the first 30 packets).",
+    "metadata": {
+      "page": 7,
+      "block_type": "text",
+      "parent_id": "#/texts/150",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/258_ku_0",
+    "parent_id": "#/texts/258",
+    "content": "The flow exporting process was set with an active timeout of 5 min and an inactive (idle) timeout of 65 s. Long connections are split when the connection duration is longer than the active timeout, and a flow record is exported even though the actual connection is not terminated yet. If no packet is observed within the inactive timeout period, the connection is considered terminated, and a flow record is exported. Using active and inactive timeouts for splitting connections is standard practice for flow-based network monitoring [12] .",
+    "metadata": {
+      "page": 8,
+      "block_type": "text",
+      "parent_id": "#/texts/258",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/259_ku_0",
+    "parent_id": "#/texts/259",
+    "content": "Exported flows from each monitoring point were transmitted using the IPFIX protocol to a single flow collector, which performed additional processing.",
+    "metadata": {
+      "page": 8,
+      "block_type": "text",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/263_ku_0",
+    "parent_id": "#/texts/263",
+    "content": "Flows were collected using the IPFIXcol2 7 flow collector, which was executed with a configuration to receive, process, and save flows enriched with QUIC fields. All IPFIX data were converted using IPFIXcol2 and passed into the NEMEA framework, 8 which allows stream-wise and efficient flow processing.",
+    "metadata": {
+      "page": 9,
+      "block_type": "text",
+      "parent_id": "#/texts/263",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/264_ku_0",
+    "parent_id": "#/texts/264",
+    "content": "We performed flow filtration using a NEMEA filtering module. 9 The filtering module selected QUIC flows that had the destination port 443/UDP, had the QUIC SNI field filled, and had at least one packet in both communication directions to filter out unidirectional flows. Unidirectional flows can be formed in the network due to service scanning, connection errors, or other network phenomena such as asymmetric routing.",
+    "metadata": {
+      "page": 9,
+      "block_type": "text",
+      "parent_id": "#/texts/264",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/265_ku_0",
+    "parent_id": "#/texts/265",
+    "content": "Next, flows were assigned a web service (or background) label using the SNI-service mapping described in Section 3.1 . Bidirectional QUIC flows with service labels were then passed to the sampling stage.",
+    "metadata": {
+      "page": 9,
+      "block_type": "text",
+      "parent_id": "#/texts/265",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/267_ku_0",
+    "parent_id": "#/texts/267",
+    "content": "Since our goal is long-term flow capture from a large backbone network, we need to use data sampling to maintain a reasonable size of the dataset. Instead of using one sampling ratio for all traffic, we decided to use a dynamic sampling ratio for each service to soften the class imbalances in the dataset. Each service is sampled at a different ratio, depending on the amount of traffic (i.e., the number of flows) it generates. This dynamic sampling approach ensures that even less-prevalent services are represented in the dataset with a sufficient amount of samples.",
+    "metadata": {
+      "page": 9,
+      "block_type": "text",
+      "parent_id": "#/texts/267",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/268_ku_0",
+    "parent_id": "#/texts/268",
+    "content": "Services are sorted based on the amount of their traffic.",
+    "metadata": {
+      "page": 9,
+      "block_type": "text",
+      "parent_id": "#/texts/268",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/268_ku_1",
+    "parent_id": "#/texts/268",
+    "content": "The top 5% of services are sampled with a 1:15 ratio; the bottom 60% of services are not sampled at all.",
+    "metadata": {
+      "page": 9,
+      "block_type": "text",
+      "parent_id": "#/texts/268",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/268_ku_2",
+    "parent_id": "#/texts/268",
+    "content": "The rest 35% are sampled with a ratio ranging between 1:2 and 1:9, depending on their prevalence. Moreover, the background traffic classes (see Section 3.1 ) are all sampled with a 1:15 ratio. The amount of traffic of each service was monitored during the dataset capture, and the sampling ratios were updated every five minutes. The resulting per-service sampling ratios are included in the dataset. It is up to the users of the dataset to decide, depending on their goals, whether to use the dataset's service distribution with softened imbalances or resample it back to the original CESNET2 distribution.",
+    "metadata": {
+      "page": 9,
+      "block_type": "text",
+      "parent_id": "#/texts/268",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/270_ku_0",
+    "parent_id": "#/texts/270",
+    "content": "To protect the privacy of CESNET2 users, we anonymized client IP addresses using the CryptoPAn (Cryptography-based Prefix-preserving Anonymization) algorithm [13] . Crypto-PAn is an anonymization algorithm for IP addresses that maintains the prefix (subnetwork) structure.",
+    "metadata": {
+      "page": 9,
+      "block_type": "text",
+      "parent_id": "#/texts/270",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/270_ku_1",
+    "parent_id": "#/texts/270",
+    "content": "We also stripped other fields that could lead to user identification, such as MAC addresses.",
+    "metadata": {
+      "page": 9,
+      "block_type": "text",
+      "parent_id": "#/texts/270",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/270_ku_2",
+    "parent_id": "#/texts/270",
+    "content": "After the anonymization process, there is no link between dataset flows and actual users, and deanonymization is impossible.",
+    "metadata": {
+      "page": 9,
+      "block_type": "text",
+      "parent_id": "#/texts/270",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/272_ku_0",
+    "parent_id": "#/texts/272",
+    "content": "Maintaining the privacy of Internet users is our prime concern; hence, the research and dataset collection were done with extreme carefulness. The indisputable advantages of real traffic generated in a production network come with the cost of potential privacy violations of real users.",
+    "metadata": {
+      "page": 9,
+      "block_type": "text",
+      "parent_id": "#/texts/272",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/272_ku_1",
+    "parent_id": "#/texts/272",
+    "content": "Therefore, we used automatic data processing with immediate data anonymization.",
+    "metadata": {
+      "page": 9,
+      "block_type": "text",
+      "parent_id": "#/texts/272",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/272_ku_2",
+    "parent_id": "#/texts/272",
+    "content": "With this, we declare that we did not analyze or process deanonymized data and did not perform any procedures that could lead us to users' identities.",
+    "metadata": {
+      "page": 9,
+      "block_type": "text",
+      "parent_id": "#/texts/272",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/279_ku_0",
+    "parent_id": "#/texts/279",
+    "content": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+    "metadata": {
+      "page": 10,
+      "block_type": "text",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/281_ku_0",
+    "parent_id": "#/texts/281",
+    "content": "CESNET-QUIC22: a large one-month QUIC network traffic dataset from backbone lines (Original data) (Zenodo).",
+    "metadata": {
+      "page": 10,
+      "block_type": "text",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/283_ku_0",
+    "parent_id": "#/texts/283",
+    "content": "Jan Luxemburk: Conceptualization, Data curation, Methodology, Software, Visualization, Validation, Writing -original draft, Writing -review & editing; Karel Hynek: Conceptualization, Methodology, Software, Validation, Writing -original draft, Writing -review & editing; Tomáš ˇ Cejka: Conceptualization, Project administration, Funding acquisition, Supervision; Andrej Luka ˇ covi ˇ c: Software, Validation; Pavel Šiška: Software, Validation.",
+    "metadata": {
+      "page": 10,
+      "block_type": "text",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/285_ku_0",
+    "parent_id": "#/texts/285",
+    "content": "The creation of the dataset was funded by the Ministry of the Interior of the Czech Republic , grant no.",
+    "metadata": {
+      "page": 10,
+      "block_type": "text",
+      "parent_id": "#/texts/285",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/285_ku_1",
+    "parent_id": "#/texts/285",
+    "content": "VJ02010024 : 'Flow-Based Encrypted Traffic Analysis'.",
+    "metadata": {
+      "page": 10,
+      "block_type": "text",
+      "parent_id": "#/texts/285",
+      "source_document": "quic.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/3_ku_0",
+    "parent_id": "#/texts/3",
+    "content": "Why do some startups get funded?",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "parent_id": "#/texts/3",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/3_ku_1",
+    "parent_id": "#/texts/3",
+    "content": "What makes for the best pitch?",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "parent_id": "#/texts/3",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/3_ku_2",
+    "parent_id": "#/texts/3",
+    "content": "How does the process work?",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "parent_id": "#/texts/3",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/4_ku_0",
+    "parent_id": "#/texts/4",
+    "content": "DocSend recently teamed up with Professor Tom Eisenmann from Harvard Business School .",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "parent_id": "#/texts/4",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/4_ku_1",
+    "parent_id": "#/texts/4",
+    "content": "Together, we conducted research that gave us the answers to those questions.",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "parent_id": "#/texts/4",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/4_ku_2",
+    "parent_id": "#/texts/4",
+    "content": "We studied the fundraising of 200 startup companies as they went through their Series Seed and Series A rounds.",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "parent_id": "#/texts/4",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/4_ku_3",
+    "parent_id": "#/texts/4",
+    "content": "Altogether, these companies raised more than $360 million.",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "parent_id": "#/texts/4",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/8_ku_0",
+    "parent_id": "#/texts/8",
+    "content": "DocSend is a sales enablement tool that tracks per-page analytics on document usage and is a popular way for founders to send pitch decks to investors.",
+    "metadata": {
+      "page": 2,
+      "block_type": "text",
+      "parent_id": "#/texts/8",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/8_ku_1",
+    "parent_id": "#/texts/8",
+    "content": "This put us in a unique position to conduct this study.",
+    "metadata": {
+      "page": 2,
+      "block_type": "text",
+      "parent_id": "#/texts/8",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/9_ku_0",
+    "parent_id": "#/texts/9",
+    "content": "All of the companies that we chose through our selection process opted into the research.",
+    "metadata": {
+      "page": 2,
+      "block_type": "text",
+      "parent_id": "#/texts/9",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/9_ku_1",
+    "parent_id": "#/texts/9",
+    "content": "In addition to sending their decks to investors using DocSend, they answered a detailed questionnaire on what the overall fundraising process was like.",
+    "metadata": {
+      "page": 2,
+      "block_type": "text",
+      "parent_id": "#/texts/9",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/9_ku_2",
+    "parent_id": "#/texts/9",
+    "content": "Some of the companies that participated include August Locks, Panjo, Shift Cars, Back to the Roots, Wiser, Tiggly, 20twenty, Boomtrain, and mNectar.",
+    "metadata": {
+      "page": 2,
+      "block_type": "text",
+      "parent_id": "#/texts/9",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/11_ku_0",
+    "parent_id": "#/texts/11",
+    "content": "BACK TO THE ROOTS",
+    "metadata": {
+      "page": 2,
+      "block_type": "text",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/20_ku_0",
+    "parent_id": "#/texts/20",
+    "content": "Starting a company is a brutal process. Getting outside funding is a necessary step for many tech startups, but it's an opaque and frustrating process for those doing it for the first time.",
+    "metadata": {
+      "page": 3,
+      "block_type": "text",
+      "parent_id": "#/texts/20",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/20_ku_1",
+    "parent_id": "#/texts/20",
+    "content": "With that in mind, we wanted to shed some light on what a typical successful seed round looks like.",
+    "metadata": {
+      "page": 3,
+      "block_type": "text",
+      "parent_id": "#/texts/20",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/47_ku_0",
+    "parent_id": "#/texts/47",
+    "content": "If you're thinking of raising a seed round for your startup, here are seven take aways from hundreds of companies who successfully raised.",
+    "metadata": {
+      "page": 4,
+      "block_type": "text",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/50_ku_0",
+    "parent_id": "#/texts/50",
+    "content": "Keep your deck to 20 pages or fewer.",
+    "metadata": {
+      "page": 4,
+      "block_type": "text",
+      "parent_id": "#/texts/50",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/50_ku_1",
+    "parent_id": "#/texts/50",
+    "content": "Each visit will only be 3m 44sec on average.",
+    "metadata": {
+      "page": 4,
+      "block_type": "text",
+      "parent_id": "#/texts/50",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/54_ku_0",
+    "parent_id": "#/texts/54",
+    "content": "Raising seed funding will take longer than you think.",
+    "metadata": {
+      "page": 4,
+      "block_type": "text",
+      "parent_id": "#/texts/54",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/54_ku_1",
+    "parent_id": "#/texts/54",
+    "content": "Don't start to despair until you've been at it for a few months.",
+    "metadata": {
+      "page": 4,
+      "block_type": "text",
+      "parent_id": "#/texts/54",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/55_ku_0",
+    "parent_id": "#/texts/55",
+    "content": "Try to raise from a seed firm before you go to angels.",
+    "metadata": {
+      "page": 4,
+      "block_type": "text",
+      "parent_id": "#/texts/55",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/55_ku_1",
+    "parent_id": "#/texts/55",
+    "content": "Firms will give you more money in less time with fewer meetings.",
+    "metadata": {
+      "page": 4,
+      "block_type": "text",
+      "parent_id": "#/texts/55",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/61_ku_0",
+    "parent_id": "#/texts/61",
+    "content": "More meetings does not equal more money.",
+    "metadata": {
+      "page": 4,
+      "block_type": "text",
+      "parent_id": "#/texts/61",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/61_ku_1",
+    "parent_id": "#/texts/61",
+    "content": "Focus on getting quality introductions to investors who are likely to be a fit.",
+    "metadata": {
+      "page": 4,
+      "block_type": "text",
+      "parent_id": "#/texts/61",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/61_ku_2",
+    "parent_id": "#/texts/61",
+    "content": "Quality over quantity.",
+    "metadata": {
+      "page": 4,
+      "block_type": "text",
+      "parent_id": "#/texts/61",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/62_ku_0",
+    "parent_id": "#/texts/62",
+    "content": "You'll likely need to contact 20-30 investors.",
+    "metadata": {
+      "page": 4,
+      "block_type": "text",
+      "parent_id": "#/texts/62",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/62_ku_1",
+    "parent_id": "#/texts/62",
+    "content": "But you won't need to contact hundreds.",
+    "metadata": {
+      "page": 4,
+      "block_type": "text",
+      "parent_id": "#/texts/62",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/63_ku_0",
+    "parent_id": "#/texts/63",
+    "content": "Spend time on your deck.",
+    "metadata": {
+      "page": 4,
+      "block_type": "text",
+      "parent_id": "#/texts/63",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/63_ku_1",
+    "parent_id": "#/texts/63",
+    "content": "Specifically, make sure your team slide looks awesome. If you include a financial slide, which is optional, remember it'll be your most viewed.",
+    "metadata": {
+      "page": 4,
+      "block_type": "text",
+      "parent_id": "#/texts/63",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/64_ku_0",
+    "parent_id": "#/texts/64",
+    "content": "Don't list your deal terms in your deck.",
+    "metadata": {
+      "page": 4,
+      "block_type": "text",
+      "parent_id": "#/texts/64",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/64_ku_1",
+    "parent_id": "#/texts/64",
+    "content": "Deliver them in person.",
+    "metadata": {
+      "page": 4,
+      "block_type": "text",
+      "parent_id": "#/texts/64",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/64_ku_2",
+    "parent_id": "#/texts/64",
+    "content": "The terms can vary by investor.",
+    "metadata": {
+      "page": 4,
+      "block_type": "text",
+      "parent_id": "#/texts/64",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/69_ku_0",
+    "parent_id": "#/texts/69",
+    "content": "The average length of the seed decks we studied was roughly 19 pages, and most had a similar format. The following table shows the types of pages used in the average order by the frequency in which they occurred. This table also notes the average length for each section of the deck, if that figure was included.",
+    "metadata": {
+      "page": 6,
+      "block_type": "text",
+      "parent_id": "#/texts/69",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/69_ku_1",
+    "parent_id": "#/texts/69",
+    "content": "We categorized pages according to 6HTXRLD &DSLWDO·V OLVW RI UHFRPPHQGHG FDWHJRULHV",
+    "metadata": {
+      "page": 6,
+      "block_type": "text",
+      "parent_id": "#/texts/69",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/160_ku_0",
+    "parent_id": "#/texts/160",
+    "content": "The ordering of the sections was fairly standard, except for the team page.",
+    "metadata": {
+      "page": 7,
+      "block_type": "text",
+      "parent_id": "#/texts/160",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/160_ku_1",
+    "parent_id": "#/texts/160",
+    "content": "This page appeared either at the beginning or the end, but never in the middle. Within the 200 companies we studied, more companies placed the page at the end and not the beginning.",
+    "metadata": {
+      "page": 7,
+      "block_type": "text",
+      "parent_id": "#/texts/160",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/160_ku_2",
+    "parent_id": "#/texts/160",
+    "content": "This practice is in line with advice from Reid Hoffman , who advises companies to lead with their investment thesis, not a team page.",
+    "metadata": {
+      "page": 7,
+      "block_type": "text",
+      "parent_id": "#/texts/160",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/163_ku_0",
+    "parent_id": "#/texts/163",
+    "content": "Viewers studied the average successful deck for 3 minutes, 44 seconds.",
+    "metadata": {
+      "page": 8,
+      "block_type": "text",
+      "parent_id": "#/texts/163",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/163_ku_1",
+    "parent_id": "#/texts/163",
+    "content": "This time might not sound like much, but the length was more than we expected.",
+    "metadata": {
+      "page": 8,
+      "block_type": "text",
+      "parent_id": "#/texts/163",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/163_ku_2",
+    "parent_id": "#/texts/163",
+    "content": "Compare that time to DocSend's own pitch deck, viewed on average for a little more than two minutes.",
+    "metadata": {
+      "page": 8,
+      "block_type": "text",
+      "parent_id": "#/texts/163",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/163_ku_3",
+    "parent_id": "#/texts/163",
+    "content": "Twelve percent of investors read the pitch decks from their mobile phones as well, so make sure your deck looks OK on a tiny screen.",
+    "metadata": {
+      "page": 8,
+      "block_type": "text",
+      "parent_id": "#/texts/163",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/173_ku_0",
+    "parent_id": "#/texts/173",
+    "content": "A few questions arise: Where was this view time spent within the pitch?",
+    "metadata": {
+      "page": 9,
+      "block_type": "text",
+      "parent_id": "#/texts/173",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/173_ku_1",
+    "parent_id": "#/texts/173",
+    "content": "If you spend extra time fixing up your deck, which pages should you focus on?",
+    "metadata": {
+      "page": 9,
+      "block_type": "text",
+      "parent_id": "#/texts/173",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/173_ku_2",
+    "parent_id": "#/texts/173",
+    "content": "Where should you anticipate questions?",
+    "metadata": {
+      "page": 9,
+      "block_type": "text",
+      "parent_id": "#/texts/173",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/173_ku_3",
+    "parent_id": "#/texts/173",
+    "content": "The following table shows the average time spent per page in each category.",
+    "metadata": {
+      "page": 9,
+      "block_type": "text",
+      "parent_id": "#/texts/173",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/201_ku_0",
+    "parent_id": "#/texts/201",
+    "content": "Time / Page View in Seconds",
+    "metadata": {
+      "page": 9,
+      "block_type": "text",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/202_ku_0",
+    "parent_id": "#/texts/202",
+    "content": "Interestingly, although the financial category takes the place, only 57 percent of successful decks have this section. The low rate of inclusion is mostly due to the fact that many seed stage firms do not yet have financial results on projections. Almost all of the seed decks, and many of the A decks, don't contain any significant financials to discuss.",
+    "metadata": {
+      "page": 9,
+      "block_type": "text",
+      "parent_id": "#/texts/202",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/203_ku_0",
+    "parent_id": "#/texts/203",
+    "content": "If you include financials, be very thoughtful with the content, as viewers will spend the most time on this section.",
+    "metadata": {
+      "page": 9,
+      "block_type": "text",
+      "parent_id": "#/texts/203",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/203_ku_1",
+    "parent_id": "#/texts/203",
+    "content": "Ensure your team slide, whether at the end or the beginning, also looks amazing.",
+    "metadata": {
+      "page": 9,
+      "block_type": "text",
+      "parent_id": "#/texts/203",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/204_ku_0",
+    "parent_id": "#/texts/204",
+    "content": "One thing that's important to note is that almost no decks listed the amount they were raising and the terms of their fundraise.",
+    "metadata": {
+      "page": 9,
+      "block_type": "text",
+      "parent_id": "#/texts/204",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/204_ku_1",
+    "parent_id": "#/texts/204",
+    "content": "This information is always better delivered in person, and can vary from investor to investor.",
+    "metadata": {
+      "page": 9,
+      "block_type": "text",
+      "parent_id": "#/texts/204",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/207_ku_0",
+    "parent_id": "#/texts/207",
+    "content": "Some of the companies in our data set agreed to share their decks publicly. If you'd like to see some pitch decks to get ideas to create your own, these samples are great.",
+    "metadata": {
+      "page": 10,
+      "block_type": "text",
+      "parent_id": "#/texts/207",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/220_ku_0",
+    "parent_id": "#/texts/220",
+    "content": "We make car buying, selling, and ownership delightful",
+    "metadata": {
+      "page": 10,
+      "block_type": "text",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/222_ku_0",
+    "parent_id": "#/texts/222",
+    "content": "The World's Yoga Network",
+    "metadata": {
+      "page": 10,
+      "block_type": "text",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/229_ku_0",
+    "parent_id": "#/texts/229",
+    "content": "A Recommendation Engine for Real Estate",
+    "metadata": {
+      "page": 10,
+      "block_type": "text",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/230_ku_0",
+    "parent_id": "#/texts/230",
+    "content": "Next generation weather network",
+    "metadata": {
+      "page": 10,
+      "block_type": "text",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/232_ku_0",
+    "parent_id": "#/texts/232",
+    "content": "FOR THE GLOBAL FOOD INDUSTRY",
+    "metadata": {
+      "page": 10,
+      "block_type": "text",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/237_ku_0",
+    "parent_id": "#/texts/237",
+    "content": "Evan Hammer |evan@smarthost.me | 516.528.6884",
+    "metadata": {
+      "page": 10,
+      "block_type": "text",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/241_ku_0",
+    "parent_id": "#/texts/241",
+    "content": "How long does a typical seed round take to raise?",
+    "metadata": {
+      "page": 11,
+      "block_type": "text",
+      "parent_id": "#/texts/241",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/241_ku_1",
+    "parent_id": "#/texts/241",
+    "content": "Within DocSend's data set, on average, the round took 12 1/2 weeks. However, we saw much variation around this average.",
+    "metadata": {
+      "page": 11,
+      "block_type": "text",
+      "parent_id": "#/texts/241",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/241_ku_2",
+    "parent_id": "#/texts/241",
+    "content": "One-fifth of the companies took 20 weeks or longer, and another one-fifth took six weeks or fewer.",
+    "metadata": {
+      "page": 11,
+      "block_type": "text",
+      "parent_id": "#/texts/241",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/241_ku_3",
+    "parent_id": "#/texts/241",
+    "content": "The longest successful round took 40 weeks to close.",
+    "metadata": {
+      "page": 11,
+      "block_type": "text",
+      "parent_id": "#/texts/241",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/242_ku_0",
+    "parent_id": "#/texts/242",
+    "content": "Companies that failed to successfully raise funds gave up after an average of 6.7 weeks. These companies may have failed simply for lack of patience: the companies that had successful rounds reported that the process took longer than expected. We asked the research participants to rate the actual length of their fundraising round against their expectations.",
+    "metadata": {
+      "page": 11,
+      "block_type": "text",
+      "parent_id": "#/texts/242",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/242_ku_1",
+    "parent_id": "#/texts/242",
+    "content": "On a scale of one to five, where three was 'as expected' and five was 'waaaaay longer,' the average response for seed rounds was 3.6.",
+    "metadata": {
+      "page": 11,
+      "block_type": "text",
+      "parent_id": "#/texts/242",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/252_ku_0",
+    "parent_id": "#/texts/252",
+    "content": "Certainly, while patience is beneficial for startups, knowing when to give up, take a step back, and take a fresh look at the situation is important. Three-fourths of the companies that failed to raise seed funding planned to try again, and the average time until they plan to restart their efforts is 8.9 weeks-plenty of time to make progress on their business and incorporate feedback.",
+    "metadata": {
+      "page": 11,
+      "block_type": "text",
+      "parent_id": "#/texts/252",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/255_ku_0",
+    "parent_id": "#/texts/255",
+    "content": "It's tempting to think that the more investors you contact, the better your chances of raising money.",
+    "metadata": {
+      "page": 12,
+      "block_type": "text",
+      "parent_id": "#/texts/255",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/255_ku_1",
+    "parent_id": "#/texts/255",
+    "content": "Unfortunately, this situation isn't the case.",
+    "metadata": {
+      "page": 12,
+      "block_type": "text",
+      "parent_id": "#/texts/255",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/255_ku_2",
+    "parent_id": "#/texts/255",
+    "content": "Certainly, the more investors you contact, the more meetings you'll get, up to a point. Note: in the data reported here, an entrepreneur could have multiple meetings with one investor, making it possible to have more meetings than investors contacted.",
+    "metadata": {
+      "page": 12,
+      "block_type": "text",
+      "parent_id": "#/texts/255",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/268_ku_0",
+    "parent_id": "#/texts/268",
+    "content": "Contacting more investors will get you more meetings, up to a point.",
+    "metadata": {
+      "page": 12,
+      "block_type": "text",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/270_ku_0",
+    "parent_id": "#/texts/270",
+    "content": "Contacting more investors will get you more meetings, but it won't necessarily get you more money. Focus on the quality of your connection to the investors you contact. In this graph, we compare the number of investors contacted and the amount of funding raised.",
+    "metadata": {
+      "page": 12,
+      "block_type": "text",
+      "parent_id": "#/texts/270",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/270_ku_1",
+    "parent_id": "#/texts/270",
+    "content": "There isn't much correlation, and if anything, the impression is a bit negative.",
+    "metadata": {
+      "page": 12,
+      "block_type": "text",
+      "parent_id": "#/texts/270",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/283_ku_0",
+    "parent_id": "#/texts/283",
+    "content": "Contacting more investors won't help raise more money.",
+    "metadata": {
+      "page": 12,
+      "block_type": "text",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/285_ku_0",
+    "parent_id": "#/texts/285",
+    "content": "Create a list of 30 investors you feel would be particularly passionate about your pitch.",
+    "metadata": {
+      "page": 13,
+      "block_type": "text",
+      "parent_id": "#/texts/285",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/285_ku_1",
+    "parent_id": "#/texts/285",
+    "content": "Most of the startups in our data set had to contact only 20 to 30 investors to close their round.",
+    "metadata": {
+      "page": 13,
+      "block_type": "text",
+      "parent_id": "#/texts/285",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/286_ku_0",
+    "parent_id": "#/texts/286",
+    "content": "If none of them agree to invest, something may be off about what or how you're pitching. Take their feedback seriously and make some changes to your pitch before contacting more investors. If you still haven't closed investors after contacting 100 of them, you should seriously rethink either your timing in the market or the project. A few companies raise money after contacting more than 100 investors, but that scenario is rare and a big drain on your time.",
+    "metadata": {
+      "page": 13,
+      "block_type": "text",
+      "parent_id": "#/texts/286",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/288_ku_0",
+    "parent_id": "#/texts/288",
+    "content": "Earlier, we noted the average seed round in DocSend's data set was $1.3 million.",
+    "metadata": {
+      "page": 13,
+      "block_type": "text",
+      "parent_id": "#/texts/288",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/288_ku_1",
+    "parent_id": "#/texts/288",
+    "content": "The amount and the process, however, varied widely depending on whether the entrepreneur raised from angels or a seed firm.",
+    "metadata": {
+      "page": 13,
+      "block_type": "text",
+      "parent_id": "#/texts/288",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/289_ku_0",
+    "parent_id": "#/texts/289",
+    "content": "Angel investors are wealthy individuals who give their own money to a project; they typically give between $25,000 and $100,000. Seed firms are small venture capital funds that pursue investments on a full-time basis.",
+    "metadata": {
+      "page": 13,
+      "block_type": "text",
+      "parent_id": "#/texts/289",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/289_ku_1",
+    "parent_id": "#/texts/289",
+    "content": "These firms usually invest between $250,000 and $1 million in a project.",
+    "metadata": {
+      "page": 13,
+      "block_type": "text",
+      "parent_id": "#/texts/289",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/301_ku_0",
+    "parent_id": "#/texts/301",
+    "content": "Angels are typically operators, so they can relate and have a personal interest in your project. Because you'll have a few angels in your round, you'll have a sizable support group behind you.",
+    "metadata": {
+      "page": 14,
+      "block_type": "text",
+      "parent_id": "#/texts/301",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/304_ku_0",
+    "parent_id": "#/texts/304",
+    "content": "These firms have professional, savvy investors. The firms invest more, so they have a greater financial interest in seeing you succeed. Firms also have more money to give you later if you need it.",
+    "metadata": {
+      "page": 14,
+      "block_type": "text",
+      "parent_id": "#/texts/304",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/306_ku_0",
+    "parent_id": "#/texts/306",
+    "content": "Angels have busy lives and fluctuating funds, so you may not always be able to rely on them for the money and support you need.",
+    "metadata": {
+      "page": 14,
+      "block_type": "text",
+      "parent_id": "#/texts/306",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/306_ku_1",
+    "parent_id": "#/texts/306",
+    "content": "You also need to sell to more of them for a round.",
+    "metadata": {
+      "page": 14,
+      "block_type": "text",
+      "parent_id": "#/texts/306",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/307_ku_0",
+    "parent_id": "#/texts/307",
+    "content": "Firms may try to control your business decisions, and they aren't always qualified to give you the best advice. Firms also see a lot of deals, so it's hard to get their attention.",
+    "metadata": {
+      "page": 14,
+      "block_type": "text",
+      "parent_id": "#/texts/307",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/310_ku_0",
+    "parent_id": "#/texts/310",
+    "content": "In general, angel-led seed rounds are much more common than firm-led seed rounds. According to 'DYLG 6  5RVH , an angel investor, seed firms fund about 1,500 startups each year while angels fund roughly 50,000. This discrepancy is partially because seed firms invest in about one of every 400 companies they consider, while angels choose one out of every 40.",
+    "metadata": {
+      "page": 15,
+      "block_type": "text",
+      "parent_id": "#/texts/310",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/310_ku_1",
+    "parent_id": "#/texts/310",
+    "content": "Those numbers are by no means exact, but they do illustrate that if you wish to get a firm's attention, you need to have an outstanding pitch deck and know the selling points of your business inside and out.",
+    "metadata": {
+      "page": 15,
+      "block_type": "text",
+      "parent_id": "#/texts/310",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/311_ku_0",
+    "parent_id": "#/texts/311",
+    "content": "According to DocSend's data, although angel-led seed rounds are more common, firm-led rounds have much more favorable characteristics.",
+    "metadata": {
+      "page": 15,
+      "block_type": "text",
+      "parent_id": "#/texts/311",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/311_ku_1",
+    "parent_id": "#/texts/311",
+    "content": "If you are able to raise funds from a firm, you'll get twice as much money in 30 percent less time. You'll also need to contact only 40 percent as many investors.",
+    "metadata": {
+      "page": 15,
+      "block_type": "text",
+      "parent_id": "#/texts/311",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/313_ku_0",
+    "parent_id": "#/texts/313",
+    "content": "Our recommendation is to try raising from a Seed Fund first.",
+    "metadata": {
+      "page": 15,
+      "block_type": "text",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/330_ku_0",
+    "parent_id": "#/texts/330",
+    "content": "Avg time to fundraise (weeks)",
+    "metadata": {
+      "page": 15,
+      "block_type": "text",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/343_ku_0",
+    "parent_id": "#/texts/343",
+    "content": "Series A rounds are much less common than seed rounds.",
+    "metadata": {
+      "page": 16,
+      "block_type": "text",
+      "parent_id": "#/texts/343",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/343_ku_1",
+    "parent_id": "#/texts/343",
+    "content": "In DocSend's data set, nine seed rounds existed for every series A round .",
+    "metadata": {
+      "page": 16,
+      "block_type": "text",
+      "parent_id": "#/texts/343",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/343_ku_2",
+    "parent_id": "#/texts/343",
+    "content": "It appears that the Series A Crunch is still in effect.",
+    "metadata": {
+      "page": 16,
+      "block_type": "text",
+      "parent_id": "#/texts/343",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/343_ku_3",
+    "parent_id": "#/texts/343",
+    "content": "Although we have fewer data points, we managed to collect some statistics on the differences between seed and A rounds.",
+    "metadata": {
+      "page": 16,
+      "block_type": "text",
+      "parent_id": "#/texts/343",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/344_ku_0",
+    "parent_id": "#/texts/344",
+    "content": "If you are able to raise a Series A round, the process is easier than for a seed round. A rounds take less time, yield more money, and require fewer investors than seed rounds.",
+    "metadata": {
+      "page": 16,
+      "block_type": "text",
+      "parent_id": "#/texts/344",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/347_ku_0",
+    "parent_id": "#/texts/347",
+    "content": "Series A rounds took an average of 9.6 weeks, 24 percent less time than the time given for the average seed round.",
+    "metadata": {
+      "page": 16,
+      "block_type": "text",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/350_ku_0",
+    "parent_id": "#/texts/350",
+    "content": "During A rounds, companies contacted an average of 26 investors, versus 58 investors contacted for seed rounds.",
+    "metadata": {
+      "page": 16,
+      "block_type": "text",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/352_ku_0",
+    "parent_id": "#/texts/352",
+    "content": "During A rounds, companies had on average 30 investor meetings, versus 40 investor meetings for seed rounds.",
+    "metadata": {
+      "page": 16,
+      "block_type": "text",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/354_ku_0",
+    "parent_id": "#/texts/354",
+    "content": "The average money raised during seed rounds was just under $1.3 million, where the money raised during A rounds was more than $8 million.",
+    "metadata": {
+      "page": 16,
+      "block_type": "text",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/356_ku_0",
+    "parent_id": "#/texts/356",
+    "content": "Consumers' needs and other economic conditions impact which business models receive the greatest success during fundraising.",
+    "metadata": {
+      "page": 17,
+      "block_type": "text",
+      "parent_id": "#/texts/356",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/356_ku_1",
+    "parent_id": "#/texts/356",
+    "content": "While trends are always fluctuating, in the past 12 months, four types of companies stood out as having the most success during seed rounds: consumer, business, marketplace, and hardware.",
+    "metadata": {
+      "page": 17,
+      "block_type": "text",
+      "parent_id": "#/texts/356",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/357_ku_0",
+    "parent_id": "#/texts/357",
+    "content": "On average, marketplace companies raised the most money in their seed rounds.",
+    "metadata": {
+      "page": 17,
+      "block_type": "text",
+      "parent_id": "#/texts/357",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/357_ku_1",
+    "parent_id": "#/texts/357",
+    "content": "Successful marketplace businesses are quite rare, but when they work, they're also much bigger, like Uber or Airbnb. Raising money for a marketplace startup takes a long time. Although there's a lot of money for companies in these categories, convincing investors that your startup is going to win takes longer.",
+    "metadata": {
+      "page": 17,
+      "block_type": "text",
+      "parent_id": "#/texts/357",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/359_ku_0",
+    "parent_id": "#/texts/359",
+    "content": "The following are some of the key statistics on the fundraising efforts of the four types of business models:",
+    "metadata": {
+      "page": 17,
+      "block_type": "text",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/376_ku_0",
+    "parent_id": "#/texts/376",
+    "content": "Fundraising for your startup can be an opaque and frustrating process when the future of your business is on the line.",
+    "metadata": {
+      "page": 18,
+      "block_type": "text",
+      "parent_id": "#/texts/376",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/376_ku_1",
+    "parent_id": "#/texts/376",
+    "content": "Keep these take aways in mind to maximize your chances of successfully raising a seed round.",
+    "metadata": {
+      "page": 18,
+      "block_type": "text",
+      "parent_id": "#/texts/376",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/379_ku_0",
+    "parent_id": "#/texts/379",
+    "content": "Keep your deck to 20 pages or fewer.",
+    "metadata": {
+      "page": 18,
+      "block_type": "text",
+      "parent_id": "#/texts/379",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/379_ku_1",
+    "parent_id": "#/texts/379",
+    "content": "Each visit will only be 3m 44sec on average.",
+    "metadata": {
+      "page": 18,
+      "block_type": "text",
+      "parent_id": "#/texts/379",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/383_ku_0",
+    "parent_id": "#/texts/383",
+    "content": "Raising seed funding will take longer than you think.",
+    "metadata": {
+      "page": 18,
+      "block_type": "text",
+      "parent_id": "#/texts/383",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/383_ku_1",
+    "parent_id": "#/texts/383",
+    "content": "Don't start to despair until you've been at it for a few months.",
+    "metadata": {
+      "page": 18,
+      "block_type": "text",
+      "parent_id": "#/texts/383",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/384_ku_0",
+    "parent_id": "#/texts/384",
+    "content": "Try to raise from a seed firm before you go to angels.",
+    "metadata": {
+      "page": 18,
+      "block_type": "text",
+      "parent_id": "#/texts/384",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/384_ku_1",
+    "parent_id": "#/texts/384",
+    "content": "Firms will give you more money in less time with fewer meetings.",
+    "metadata": {
+      "page": 18,
+      "block_type": "text",
+      "parent_id": "#/texts/384",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/390_ku_0",
+    "parent_id": "#/texts/390",
+    "content": "More meetings does not equal more money.",
+    "metadata": {
+      "page": 18,
+      "block_type": "text",
+      "parent_id": "#/texts/390",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/390_ku_1",
+    "parent_id": "#/texts/390",
+    "content": "Focus on getting quality introductions to investors who are likely to be a fit.",
+    "metadata": {
+      "page": 18,
+      "block_type": "text",
+      "parent_id": "#/texts/390",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/390_ku_2",
+    "parent_id": "#/texts/390",
+    "content": "Quality over quantity.",
+    "metadata": {
+      "page": 18,
+      "block_type": "text",
+      "parent_id": "#/texts/390",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/391_ku_0",
+    "parent_id": "#/texts/391",
+    "content": "You'll likely need to contact 20-30 investors.",
+    "metadata": {
+      "page": 18,
+      "block_type": "text",
+      "parent_id": "#/texts/391",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/391_ku_1",
+    "parent_id": "#/texts/391",
+    "content": "But you won't need to contact hundreds.",
+    "metadata": {
+      "page": 18,
+      "block_type": "text",
+      "parent_id": "#/texts/391",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/392_ku_0",
+    "parent_id": "#/texts/392",
+    "content": "Spend time on your deck.",
+    "metadata": {
+      "page": 18,
+      "block_type": "text",
+      "parent_id": "#/texts/392",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/392_ku_1",
+    "parent_id": "#/texts/392",
+    "content": "Specifically, make sure your team slide looks awesome. If you include a financial slide, which is optional, remember it'll be your most viewed.",
+    "metadata": {
+      "page": 18,
+      "block_type": "text",
+      "parent_id": "#/texts/392",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/393_ku_0",
+    "parent_id": "#/texts/393",
+    "content": "Don't list your deal terms in your deck.",
+    "metadata": {
+      "page": 18,
+      "block_type": "text",
+      "parent_id": "#/texts/393",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/393_ku_1",
+    "parent_id": "#/texts/393",
+    "content": "Deliver them in person.",
+    "metadata": {
+      "page": 18,
+      "block_type": "text",
+      "parent_id": "#/texts/393",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/393_ku_2",
+    "parent_id": "#/texts/393",
+    "content": "The terms can vary by investor.",
+    "metadata": {
+      "page": 18,
+      "block_type": "text",
+      "parent_id": "#/texts/393",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/395_ku_0",
+    "parent_id": "#/texts/395",
+    "content": "See what DocSend did on our blog",
+    "metadata": {
+      "page": 19,
+      "block_type": "text",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/396_ku_0",
+    "parent_id": "#/texts/396",
+    "content": "Want to see who reads your pitch deck and where they spend time?",
+    "metadata": {
+      "page": 19,
+      "block_type": "text",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/397_ku_0",
+    "parent_id": "#/texts/397",
+    "content": "Sign up for a free DocSend account",
+    "metadata": {
+      "page": 19,
+      "block_type": "text",
+      "source_document": "Pitch-Deck-Template.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/16_ku_0",
+    "parent_id": "#/texts/16",
+    "content": "REQUEST BODY SCHEMA: application/json",
+    "metadata": {
+      "page": 2,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/50_ku_0",
+    "parent_id": "#/texts/50",
+    "content": "/ Read Root Get",
+    "metadata": {
+      "page": 2,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/52_ku_0",
+    "parent_id": "#/texts/52",
+    "content": "/items/{item_id} Read nem Get",
+    "metadata": {
+      "page": 2,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/54_ku_0",
+    "parent_id": "#/texts/54",
+    "content": "/items/{item_id} Save item Put",
+    "metadata": {
+      "page": 2,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/76_ku_0",
+    "parent_id": "#/texts/76",
+    "content": "C:\\Users\\Ahmed>python -m venv fastapi-env",
+    "metadata": {
+      "page": 4,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/79_ku_0",
+    "parent_id": "#/texts/79",
+    "content": "(fastapi-env) C:\\Users\\Ahmed>pip3 install fastapi Collecting fastapi",
+    "metadata": {
+      "page": 4,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/80_ku_0",
+    "parent_id": "#/texts/80",
+    "content": "Obtaining dependency information for fastapi from htt pi-0.108.0-py3-none-any.whl.metadata",
+    "metadata": {
+      "page": 4,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/83_ku_0",
+    "parent_id": "#/texts/83",
+    "content": "(fastapi-env) C:\\Users\\Ahmed>pip3 install uvicorn Collecting uvicorn Downloading uvicorn-0.25.0-py3-none-any.whl.metadata (6.4 kB) Collecting click>=7.0(from uvicorn) Downloading click-8.1.7-py3-none-any.whl.metadata (3.0 kB) Collocting h11>-0 8 (from wvicorn)",
+    "metadata": {
+      "page": 4,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/108_ku_0",
+    "parent_id": "#/texts/108",
+    "content": "from fastapi import FastAPI",
+    "metadata": {
+      "page": 5,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/113_ku_0",
+    "parent_id": "#/texts/113",
+    "content": "# create instance of fast api",
+    "metadata": {
+      "page": 5,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/123_ku_0",
+    "parent_id": "#/texts/123",
+    "content": "trom tastapi import rastaPt",
+    "metadata": {
+      "page": 5,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/124_ku_0",
+    "parent_id": "#/texts/124",
+    "content": "# create instance of fast api",
+    "metadata": {
+      "page": 5,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/131_ku_0",
+    "parent_id": "#/texts/131",
+    "content": "(fastapi-env) PS C:\\Users\\Ahmed\\fastapi-env> uvicorn main:app --reload",
+    "metadata": {
+      "page": 5,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/181_ku_0",
+    "parent_id": "#/texts/181",
+    "content": "\"msg\": \"Input should be a valid integer, unable to parse string as an integer\",",
+    "metadata": {
+      "page": 7,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/195_ku_0",
+    "parent_id": "#/texts/195",
+    "content": "# fetch blog with id = id",
+    "metadata": {
+      "page": 7,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/199_ku_0",
+    "parent_id": "#/texts/199",
+    "content": "return {'data': 'all unpublished blogs'}I",
+    "metadata": {
+      "page": 7,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/225_ku_0",
+    "parent_id": "#/texts/225",
+    "content": "curl -X 'GET' \\",
+    "metadata": {
+      "page": 8,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/238_ku_0",
+    "parent_id": "#/texts/238",
+    "content": "date: Thu,04 Jan 2024 16:04:50 GMT",
+    "metadata": {
+      "page": 8,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/250_ku_0",
+    "parent_id": "#/texts/250",
+    "content": "> 200 Successful Response",
+    "metadata": {
+      "page": 9,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/277_ku_0",
+    "parent_id": "#/texts/277",
+    "content": "API docs by Redocly",
+    "metadata": {
+      "page": 9,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/282_ku_0",
+    "parent_id": "#/texts/282",
+    "content": "\"data\": \"50 published from theb\"",
+    "metadata": {
+      "page": 10,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/285_ku_0",
+    "parent_id": "#/texts/285",
+    "content": "For default value to be more pertiner the user didn't enter the limit and the",
+    "metadata": {
+      "page": 10,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/309_ku_0",
+    "parent_id": "#/texts/309",
+    "content": "\"Ighone 14 pro max\",",
+    "metadata": {
+      "page": 11,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/310_ku_0",
+    "parent_id": "#/texts/310",
+    "content": "\"the sest desianed elatefore\"",
+    "metadata": {
+      "page": 11,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/319_ku_0",
+    "parent_id": "#/texts/319",
+    "content": "description: str | None = None",
+    "metadata": {
+      "page": 11,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/321_ku_0",
+    "parent_id": "#/texts/321",
+    "content": "tax: float | None = None",
+    "metadata": {
+      "page": 11,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/322_ku_0",
+    "parent_id": "#/texts/322",
+    "content": "from pydantic import BaseModel",
+    "metadata": {
+      "page": 11,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/324_ku_0",
+    "parent_id": "#/texts/324",
+    "content": "async def create_item(item: Item):",
+    "metadata": {
+      "page": 11,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/330_ku_0",
+    "parent_id": "#/texts/330",
+    "content": "FastAPI doesn't require you to use a SQL (relational) database.",
+    "metadata": {
+      "page": 12,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/331_ku_0",
+    "parent_id": "#/texts/331",
+    "content": "But you can use any relational database that you want.",
+    "metadata": {
+      "page": 12,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/332_ku_0",
+    "parent_id": "#/texts/332",
+    "content": "Here we'll see an example using SQLAlchemy [→].",
+    "metadata": {
+      "page": 12,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/333_ku_0",
+    "parent_id": "#/texts/333",
+    "content": "You can easily adapt it to any database supported by SQLAlchemy, like:",
+    "metadata": {
+      "page": 12,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/346_ku_0",
+    "parent_id": "#/texts/346",
+    "content": "will watch for changes in these directories: ['C:\\\\Users\\\\Ahmed\\\\fastapi-env']",
+    "metadata": {
+      "page": 13,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/350_ku_0",
+    "parent_id": "#/texts/350",
+    "content": "Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)",
+    "metadata": {
+      "page": 13,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/353_ku_0",
+    "parent_id": "#/texts/353",
+    "content": "from fastapi import FastAPI",
+    "metadata": {
+      "page": 13,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/355_ku_0",
+    "parent_id": "#/texts/355",
+    "content": "Started reloader process [29312] using StatReload",
+    "metadata": {
+      "page": 13,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/360_ku_0",
+    "parent_id": "#/texts/360",
+    "content": "Started server process [33480]",
+    "metadata": {
+      "page": 13,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/365_ku_0",
+    "parent_id": "#/texts/365",
+    "content": "Waiting for application startup.",
+    "metadata": {
+      "page": 13,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/372_ku_0",
+    "parent_id": "#/texts/372",
+    "content": "127.0.0.1:61231 - \"GET /docs HTTP/1.1\" 200 OK",
+    "metadata": {
+      "page": 13,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/377_ku_0",
+    "parent_id": "#/texts/377",
+    "content": "127.0.0.1:61231 - \"GET /openapi.json HTTP/1.1\" 200 OK",
+    "metadata": {
+      "page": 13,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/389_ku_0",
+    "parent_id": "#/texts/389",
+    "content": "blog >main.py > create",
+    "metadata": {
+      "page": 13,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/394_ku_0",
+    "parent_id": "#/texts/394",
+    "content": "from fastapi import FastAPI",
+    "metadata": {
+      "page": 13,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/396_ku_0",
+    "parent_id": "#/texts/396",
+    "content": "from pydantic import BaseModel",
+    "metadata": {
+      "page": 13,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/403_ku_0",
+    "parent_id": "#/texts/403",
+    "content": "# création de modéle pour créer une structure de la base de donnée using py",
+    "metadata": {
+      "page": 13,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/415_ku_0",
+    "parent_id": "#/texts/415",
+    "content": "# pour lee remplissage des deonné avec http://127.0.0.1:8000/docs",
+    "metadata": {
+      "page": 13,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/428_ku_0",
+    "parent_id": "#/texts/428",
+    "content": "from pydantic import BaseModel",
+    "metadata": {
+      "page": 14,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/433_ku_0",
+    "parent_id": "#/texts/433",
+    "content": "# création de modéle pour créer une structure de la base de donnée using py",
+    "metadata": {
+      "page": 14,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/446_ku_0",
+    "parent_id": "#/texts/446",
+    "content": "from fastapi import FastAPI",
+    "metadata": {
+      "page": 14,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/447_ku_0",
+    "parent_id": "#/texts/447",
+    "content": "from .",
+    "metadata": {
+      "page": 14,
+      "block_type": "text",
+      "parent_id": "#/texts/447",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/447_ku_1",
+    "parent_id": "#/texts/447",
+    "content": "import schemas",
+    "metadata": {
+      "page": 14,
+      "block_type": "text",
+      "parent_id": "#/texts/447",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/449_ku_0",
+    "parent_id": "#/texts/449",
+    "content": "# pour lee remplissage des deonné avec http://127.0.0.1:8000/docs",
+    "metadata": {
+      "page": 14,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/454_ku_0",
+    "parent_id": "#/texts/454",
+    "content": "(fastapi-env) PS C:\\Users\\Ahmed\\fastapi-env> pip install sqlalchemy",
+    "metadata": {
+      "page": 15,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/468_ku_0",
+    "parent_id": "#/texts/468",
+    "content": ".py (where we're going to put the connections and",
+    "metadata": {
+      "page": 15,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/470_ku_0",
+    "parent_id": "#/texts/470",
+    "content": "from sqlalchemy import create_engine",
+    "metadata": {
+      "page": 15,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/473_ku_0",
+    "parent_id": "#/texts/473",
+    "content": "from sqlalchemy.ext.declarative import declarative_base",
+    "metadata": {
+      "page": 15,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/476_ku_0",
+    "parent_id": "#/texts/476",
+    "content": "from sqlalchemy.orm import sessionmaker",
+    "metadata": {
+      "page": 15,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/478_ku_0",
+    "parent_id": "#/texts/478",
+    "content": "# to connect we use create engine and fastapis uses connection connect_args as false",
+    "metadata": {
+      "page": 15,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/482_ku_0",
+    "parent_id": "#/texts/482",
+    "content": "engine = create_engine(SQLALCHEMY_DATABASE_URL, connect_args={\"check_same_thread\": False})",
+    "metadata": {
+      "page": 15,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/486_ku_0",
+    "parent_id": "#/texts/486",
+    "content": "# create the session",
+    "metadata": {
+      "page": 15,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/489_ku_0",
+    "parent_id": "#/texts/489",
+    "content": "SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)",
+    "metadata": {
+      "page": 15,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/493_ku_0",
+    "parent_id": "#/texts/493",
+    "content": "# declare a mapping",
+    "metadata": {
+      "page": 15,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/519_ku_0",
+    "parent_id": "#/texts/519",
+    "content": "blog >models.py > Blog",
+    "metadata": {
+      "page": 16,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/521_ku_0",
+    "parent_id": "#/texts/521",
+    "content": "blog >  main.py > ...",
+    "metadata": {
+      "page": 16,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/524_ku_0",
+    "parent_id": "#/texts/524",
+    "content": "from fastapi import FastAPI",
+    "metadata": {
+      "page": 16,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/527_ku_0",
+    "parent_id": "#/texts/527",
+    "content": "from sqlalchemy import Column, Integer, String",
+    "metadata": {
+      "page": 16,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/534_ku_0",
+    "parent_id": "#/texts/534",
+    "content": "from .database import Base",
+    "metadata": {
+      "page": 16,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/537_ku_0",
+    "parent_id": "#/texts/537",
+    "content": "From .database import engine",
+    "metadata": {
+      "page": 16,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/548_ku_0",
+    "parent_id": "#/texts/548",
+    "content": "# le nom de tableau",
+    "metadata": {
+      "page": 16,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/560_ku_0",
+    "parent_id": "#/texts/560",
+    "content": "# pour lee remplissage des deonne avec http://127.0.0.1:8000/docs",
+    "metadata": {
+      "page": 16,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/564_ku_0",
+    "parent_id": "#/texts/564",
+    "content": "# les colonnes de la base de donnée declarer",
+    "metadata": {
+      "page": 16,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/569_ku_0",
+    "parent_id": "#/texts/569",
+    "content": "id = Column(Integer, primary_key=True, index=True)",
+    "metadata": {
+      "page": 16,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/602_ku_0",
+    "parent_id": "#/texts/602",
+    "content": "For the execution of database-",
+    "metadata": {
+      "page": 19,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/611_ku_0",
+    "parent_id": "#/texts/611",
+    "content": "from fastapi import FastAPI",
+    "metadata": {
+      "page": 20,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/616_ku_0",
+    "parent_id": "#/texts/616",
+    "content": "def create(request: schemas.",
+    "metadata": {
+      "page": 20,
+      "block_type": "text",
+      "parent_id": "#/texts/616",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/616_ku_1",
+    "parent_id": "#/texts/616",
+    "content": "Blog, db: Session = Depends(get_db)):",
+    "metadata": {
+      "page": 20,
+      "block_type": "text",
+      "parent_id": "#/texts/616",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/619_ku_0",
+    "parent_id": "#/texts/619",
+    "content": "new_blog = models. Blog(title=request.title, body=request.body)",
+    "metadata": {
+      "page": 20,
+      "block_type": "text",
+      "parent_id": "#/texts/619",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/633_ku_0",
+    "parent_id": "#/texts/633",
+    "content": "async def create_item(name: str)",
+    "metadata": {
+      "page": 20,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/649_ku_0",
+    "parent_id": "#/texts/649",
+    "content": "return {'detail': f'the blog with the id : {id} not existed yet'",
+    "metadata": {
+      "page": 21,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/658_ku_0",
+    "parent_id": "#/texts/658",
+    "content": "\"detail\": \"the blog with the id : 10 not existed yet\"",
+    "metadata": {
+      "page": 21,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/662_ku_0",
+    "parent_id": "#/texts/662",
+    "content": "\"detail\": \"the blog with the i",
+    "metadata": {
+      "page": 21,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/666_ku_0",
+    "parent_id": "#/texts/666",
+    "content": "\"detail\": \"the blog with the id : 10 not existed yet\"",
+    "metadata": {
+      "page": 21,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/670_ku_0",
+    "parent_id": "#/texts/670",
+    "content": "from fastapi import FastAPI, Depends, status, Response,",
+    "metadata": {
+      "page": 22,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/676_ku_0",
+    "parent_id": "#/texts/676",
+    "content": "def destroy(id, db: Session = Depends(get_db)):",
+    "metadata": {
+      "page": 23,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/677_ku_0",
+    "parent_id": "#/texts/677",
+    "content": "blog = db.query(models. Blog).filter(models.",
+    "metadata": {
+      "page": 23,
+      "block_type": "text",
+      "parent_id": "#/texts/677",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/677_ku_1",
+    "parent_id": "#/texts/677",
+    "content": "Blog.id == id).delete(synchronize_session=False)",
+    "metadata": {
+      "page": 23,
+      "block_type": "text",
+      "parent_id": "#/texts/677",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/697_ku_0",
+    "parent_id": "#/texts/697",
+    "content": "# uses for affichage bien determiner pour seulement title",
+    "metadata": {
+      "page": 25,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/711_ku_0",
+    "parent_id": "#/texts/711",
+    "content": "# to get specific information from the database",
+    "metadata": {
+      "page": 25,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/714_ku_0",
+    "parent_id": "#/texts/714",
+    "content": "def show(id, respance:Response, db : Session = Depends(get_db)):",
+    "metadata": {
+      "page": 25,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/715_ku_0",
+    "parent_id": "#/texts/715",
+    "content": "() == p.t = t)",
+    "metadata": {
+      "page": 25,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/718_ku_0",
+    "parent_id": "#/texts/718",
+    "content": "detail=f'the blogwith the id : {id} not existed yet')",
+    "metadata": {
+      "page": 25,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/720_ku_0",
+    "parent_id": "#/texts/720",
+    "content": "#return {'detail': f'the blog with the id : {id} not existed yet'}",
+    "metadata": {
+      "page": 25,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/756_ku_0",
+    "parent_id": "#/texts/756",
+    "content": "def create_user(request: schemas. User, db : Session = Depends(get_db)):",
+    "metadata": {
+      "page": 26,
+      "block_type": "text",
+      "parent_id": "#/texts/756",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/759_ku_0",
+    "parent_id": "#/texts/759",
+    "content": "new_user = models. User(name=request.name, email=request.email, password=request.password)",
+    "metadata": {
+      "page": 26,
+      "block_type": "text",
+      "parent_id": "#/texts/759",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/762_ku_0",
+    "parent_id": "#/texts/762",
+    "content": "id = Column(Integer, primary_key=True, index=True)",
+    "metadata": {
+      "page": 26,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/793_ku_0",
+    "parent_id": "#/texts/793",
+    "content": "(fastapi-env) PS C:\\Users\\Ahmed\\fastapi-env> pip install",
+    "metadata": {
+      "page": 27,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/890_ku_0",
+    "parent_id": "#/texts/890",
+    "content": "from sqlalchemy import Column, Integer, String,ForeignKey",
+    "metadata": {
+      "page": 30,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/891_ku_0",
+    "parent_id": "#/texts/891",
+    "content": "from .database import Base",
+    "metadata": {
+      "page": 30,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/896_ku_0",
+    "parent_id": "#/texts/896",
+    "content": "# le nom de tableau",
+    "metadata": {
+      "page": 30,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/898_ku_0",
+    "parent_id": "#/texts/898",
+    "content": "# les colonnes de la base de donnée declarer",
+    "metadata": {
+      "page": 30,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/899_ku_0",
+    "parent_id": "#/texts/899",
+    "content": "id = Column(Integer, primary_key=True, index=True)",
+    "metadata": {
+      "page": 30,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/902_ku_0",
+    "parent_id": "#/texts/902",
+    "content": "user_id = Column(Integer, ForeignKey(\"users.id\"))",
+    "metadata": {
+      "page": 30,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/903_ku_0",
+    "parent_id": "#/texts/903",
+    "content": "creator = relationship(\"User\", back_populates=\"blogs\")",
+    "metadata": {
+      "page": 30,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/906_ku_0",
+    "parent_id": "#/texts/906",
+    "content": "id = Column(Integer, primary_key=True,index=True)",
+    "metadata": {
+      "page": 30,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/910_ku_0",
+    "parent_id": "#/texts/910",
+    "content": "blogs = relationship(\"Blog', back_populates=\"creator\")",
+    "metadata": {
+      "page": 30,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/913_ku_0",
+    "parent_id": "#/texts/913",
+    "content": "def create(request: schemas.",
+    "metadata": {
+      "page": 30,
+      "block_type": "text",
+      "parent_id": "#/texts/913",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/913_ku_1",
+    "parent_id": "#/texts/913",
+    "content": "Blog, db: Session = Depends(get_db)):",
+    "metadata": {
+      "page": 30,
+      "block_type": "text",
+      "parent_id": "#/texts/913",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/914_ku_0",
+    "parent_id": "#/texts/914",
+    "content": "new_blog = models. Blog(title=request.title, body=request.body,",
+    "metadata": {
+      "page": 30,
+      "block_type": "text",
+      "parent_id": "#/texts/914",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/921_ku_0",
+    "parent_id": "#/texts/921",
+    "content": "\"body\": \"relationship is very important\",",
+    "metadata": {
+      "page": 30,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/929_ku_0",
+    "parent_id": "#/texts/929",
+    "content": "\"body\": \"relationship is very important\"",
+    "metadata": {
+      "page": 31,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/932_ku_0",
+    "parent_id": "#/texts/932",
+    "content": "ow also os of the he blog",
+    "metadata": {
+      "page": 31,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/935_ku_0",
+    "parent_id": "#/texts/935",
+    "content": "In order for i showUser mu",
+    "metadata": {
+      "page": 31,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/948_ku_0",
+    "parent_id": "#/texts/948",
+    "content": "\"body\": \"relationship is very important\",",
+    "metadata": {
+      "page": 31,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/964_ku_0",
+    "parent_id": "#/texts/964",
+    "content": "\"body\": \"relationship is very important\"",
+    "metadata": {
+      "page": 32,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/967_ku_0",
+    "parent_id": "#/texts/967",
+    "content": "\"title\": \"iphone 13 pro max\",",
+    "metadata": {
+      "page": 32,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/968_ku_0",
+    "parent_id": "#/texts/968",
+    "content": "\"body\": \"i wrote for this phone because of their composition and cameras",
+    "metadata": {
+      "page": 32,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/972_ku_0",
+    "parent_id": "#/texts/972",
+    "content": "In order for the",
+    "metadata": {
+      "page": 32,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/973_ku_0",
+    "parent_id": "#/texts/973",
+    "content": "display to be cor",
+    "metadata": {
+      "page": 32,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/991_ku_0",
+    "parent_id": "#/texts/991",
+    "content": "blogs = relationship('Blog', back_populates=\"creator\")",
+    "metadata": {
+      "page": 32,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1011_ku_0",
+    "parent_id": "#/texts/1011",
+    "content": "from fastapi. import FastAPI",
+    "metadata": {
+      "page": 33,
+      "block_type": "text",
+      "parent_id": "#/texts/1011",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1014_ku_0",
+    "parent_id": "#/texts/1014",
+    "content": "from routers import blog,user",
+    "metadata": {
+      "page": 33,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1019_ku_0",
+    "parent_id": "#/texts/1019",
+    "content": "# necessaire pour tout ce qui est affichage en swagerui",
+    "metadata": {
+      "page": 33,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1030_ku_0",
+    "parent_id": "#/texts/1030",
+    "content": "@router.get '/blog' ([,s, ]=sel) def all(db: Se ion=Depends(get_db) blogs = db.query(models. Blog).all() return blogs",
+    "metadata": {
+      "page": 34,
+      "block_type": "text",
+      "parent_id": "#/texts/1030",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1032_ku_0",
+    "parent_id": "#/texts/1032",
+    "content": "router = APIRouter( prefix='/blog', tags=['BLogs']",
+    "metadata": {
+      "page": 34,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1034_ku_0",
+    "parent_id": "#/texts/1034",
+    "content": "differentiate that this directory is only for.py routing",
+    "metadata": {
+      "page": 35,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1035_ku_0",
+    "parent_id": "#/texts/1035",
+    "content": "from fastapi import APIRouter, Depends, HTTPException, status",
+    "metadata": {
+      "page": 35,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1036_ku_0",
+    "parent_id": "#/texts/1036",
+    "content": "from .. import models, schemas",
+    "metadata": {
+      "page": 35,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1037_ku_0",
+    "parent_id": "#/texts/1037",
+    "content": "from ..database import get_db",
+    "metadata": {
+      "page": 35,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1038_ku_0",
+    "parent_id": "#/texts/1038",
+    "content": "from sqlalchemy.orm import Session",
+    "metadata": {
+      "page": 35,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1039_ku_0",
+    "parent_id": "#/texts/1039",
+    "content": "from passlib.context import cryptContext",
+    "metadata": {
+      "page": 35,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1040_ku_0",
+    "parent_id": "#/texts/1040",
+    "content": "from ..repositories import user",
+    "metadata": {
+      "page": 35,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1045_ku_0",
+    "parent_id": "#/texts/1045",
+    "content": "pwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")",
+    "metadata": {
+      "page": 35,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1047_ku_0",
+    "parent_id": "#/texts/1047",
+    "content": "def create_user(request: schemas. User, db : Session = Depends(get_db)):",
+    "metadata": {
+      "page": 35,
+      "block_type": "text",
+      "parent_id": "#/texts/1047",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1050_ku_0",
+    "parent_id": "#/texts/1050",
+    "content": "def show(id: int, db : Session = Depends(get_db)):",
+    "metadata": {
+      "page": 35,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1052_ku_0",
+    "parent_id": "#/texts/1052",
+    "content": "from fastapi import HTTPException, status",
+    "metadata": {
+      "page": 35,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1053_ku_0",
+    "parent_id": "#/texts/1053",
+    "content": "from .. import models, schemas",
+    "metadata": {
+      "page": 35,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1054_ku_0",
+    "parent_id": "#/texts/1054",
+    "content": "from sqlalchemy.orm import Session",
+    "metadata": {
+      "page": 35,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1055_ku_0",
+    "parent_id": "#/texts/1055",
+    "content": "from passlib.context import CryptContext",
+    "metadata": {
+      "page": 35,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1056_ku_0",
+    "parent_id": "#/texts/1056",
+    "content": "pwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")",
+    "metadata": {
+      "page": 35,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1057_ku_0",
+    "parent_id": "#/texts/1057",
+    "content": "def create_user(request: schemas. User, db : Session):",
+    "metadata": {
+      "page": 35,
+      "block_type": "text",
+      "parent_id": "#/texts/1057",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1059_ku_0",
+    "parent_id": "#/texts/1059",
+    "content": "new_user = models. User(name=request.name, email=request.email, password=hashedpass",
+    "metadata": {
+      "page": 35,
+      "block_type": "text",
+      "parent_id": "#/texts/1059",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1065_ku_0",
+    "parent_id": "#/texts/1065",
+    "content": "def show(id: int, db : Session):",
+    "metadata": {
+      "page": 35,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1066_ku_0",
+    "parent_id": "#/texts/1066",
+    "content": "user = db.query(models. User).filter(models. User.id == id).first()",
+    "metadata": {
+      "page": 35,
+      "block_type": "text",
+      "parent_id": "#/texts/1066",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1069_ku_0",
+    "parent_id": "#/texts/1069",
+    "content": "detail=f'the user with the id : {id} not existed')",
+    "metadata": {
+      "page": 35,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1071_ku_0",
+    "parent_id": "#/texts/1071",
+    "content": "from fastapi import APIRouter, Depends, HTTPException, status",
+    "metadata": {
+      "page": 35,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1072_ku_0",
+    "parent_id": "#/texts/1072",
+    "content": "from .. import models, schemas",
+    "metadata": {
+      "page": 35,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1073_ku_0",
+    "parent_id": "#/texts/1073",
+    "content": "from ..database import get_db",
+    "metadata": {
+      "page": 35,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1074_ku_0",
+    "parent_id": "#/texts/1074",
+    "content": "from sqlalchemy.orm import Session",
+    "metadata": {
+      "page": 35,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1075_ku_0",
+    "parent_id": "#/texts/1075",
+    "content": "from passlib.context import CryptContext",
+    "metadata": {
+      "page": 35,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1079_ku_0",
+    "parent_id": "#/texts/1079",
+    "content": "pwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")",
+    "metadata": {
+      "page": 35,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1081_ku_0",
+    "parent_id": "#/texts/1081",
+    "content": "def create_user(request: schemas. User, db : Session = Depends(get_db)):",
+    "metadata": {
+      "page": 35,
+      "block_type": "text",
+      "parent_id": "#/texts/1081",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1083_ku_0",
+    "parent_id": "#/texts/1083",
+    "content": "new_user = models. User(name=request.name, email=request.email, password=hashedpass",
+    "metadata": {
+      "page": 35,
+      "block_type": "text",
+      "parent_id": "#/texts/1083",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1089_ku_0",
+    "parent_id": "#/texts/1089",
+    "content": "def show(id, db : Session = Depends(get_db)):",
+    "metadata": {
+      "page": 35,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1090_ku_0",
+    "parent_id": "#/texts/1090",
+    "content": "user = db.query(models. User).filter(models. User.id == id).first()",
+    "metadata": {
+      "page": 35,
+      "block_type": "text",
+      "parent_id": "#/texts/1090",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1093_ku_0",
+    "parent_id": "#/texts/1093",
+    "content": "detail=f'the user with the id : {id} not existed')",
+    "metadata": {
+      "page": 35,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1106_ku_0",
+    "parent_id": "#/texts/1106",
+    "content": "from fastapi import APIRouter, Depends, HTTPException, status",
+    "metadata": {
+      "page": 36,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1108_ku_0",
+    "parent_id": "#/texts/1108",
+    "content": "from sqlalchemy.orm import Session",
+    "metadata": {
+      "page": 36,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1109_ku_0",
+    "parent_id": "#/texts/1109",
+    "content": "from .. import schemas, database, models, Hashing",
+    "metadata": {
+      "page": 36,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1120_ku_0",
+    "parent_id": "#/texts/1120",
+    "content": "def login(request: schemas. Login, db : Session = Depends(database.get_db)):",
+    "metadata": {
+      "page": 36,
+      "block_type": "text",
+      "parent_id": "#/texts/1120",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1121_ku_0",
+    "parent_id": "#/texts/1121",
+    "content": "user = db.query(models. User).filter(models. User.email == request.username).first()",
+    "metadata": {
+      "page": 36,
+      "block_type": "text",
+      "parent_id": "#/texts/1121",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1126_ku_0",
+    "parent_id": "#/texts/1126",
+    "content": "# verifying the password",
+    "metadata": {
+      "page": 36,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1127_ku_0",
+    "parent_id": "#/texts/1127",
+    "content": "if not Hashing. Hash.verify(user.password, request.password):",
+    "metadata": {
+      "page": 36,
+      "block_type": "text",
+      "parent_id": "#/texts/1127",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1131_ku_0",
+    "parent_id": "#/texts/1131",
+    "content": "# generate the jwt token and return it",
+    "metadata": {
+      "page": 36,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1133_ku_0",
+    "parent_id": "#/texts/1133",
+    "content": "from .routers import authentication",
+    "metadata": {
+      "page": 36,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1155_ku_0",
+    "parent_id": "#/texts/1155",
+    "content": "def login(request: schemas. Login, db : Session = Depends(database.get_db)):",
+    "metadata": {
+      "page": 37,
+      "block_type": "text",
+      "parent_id": "#/texts/1155",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1156_ku_0",
+    "parent_id": "#/texts/1156",
+    "content": "user = db.query(models. User).filter(models. User.email == request.username).first()",
+    "metadata": {
+      "page": 37,
+      "block_type": "text",
+      "parent_id": "#/texts/1156",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1160_ku_0",
+    "parent_id": "#/texts/1160",
+    "content": "# verifying the password",
+    "metadata": {
+      "page": 37,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1161_ku_0",
+    "parent_id": "#/texts/1161",
+    "content": "if not Hashing. Hash.verify(user.password, request.password):",
+    "metadata": {
+      "page": 37,
+      "block_type": "text",
+      "parent_id": "#/texts/1161",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1164_ku_0",
+    "parent_id": "#/texts/1164",
+    "content": "generate the jwt token and return it",
+    "metadata": {
+      "page": 37,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1175_ku_0",
+    "parent_id": "#/texts/1175",
+    "content": "generate the jwt token and retur",
+    "metadata": {
+      "page": 37,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1200_ku_0",
+    "parent_id": "#/texts/1200",
+    "content": "(fastapi-env) PS C:\\Users\\Ahmed\\fastapi-env> pip install",
+    "metadata": {
+      "page": 38,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1209_ku_0",
+    "parent_id": "#/texts/1209",
+    "content": "from datetime import datetime, timedelta, timezone",
+    "metadata": {
+      "page": 38,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1211_ku_0",
+    "parent_id": "#/texts/1211",
+    "content": "from jose import JWTError, jwt",
+    "metadata": {
+      "page": 38,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1221_ku_0",
+    "parent_id": "#/texts/1221",
+    "content": "ACCESS TOKEN EXPIRE MINUTES = 30",
+    "metadata": {
+      "page": 38,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1225_ku_0",
+    "parent_id": "#/texts/1225",
+    "content": "def create_access_token(data: dict, expires_delta: timedelta | None = None):",
+    "metadata": {
+      "page": 38,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1229_ku_0",
+    "parent_id": "#/texts/1229",
+    "content": "username: str | None = None",
+    "metadata": {
+      "page": 38,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1231_ku_0",
+    "parent_id": "#/texts/1231",
+    "content": "expire = datetime.now(timezone.utc) + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTE",
+    "metadata": {
+      "page": 38,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1235_ku_0",
+    "parent_id": "#/texts/1235",
+    "content": "encoded_jwt = jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)",
+    "metadata": {
+      "page": 38,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1238_ku_0",
+    "parent_id": "#/texts/1238",
+    "content": "# generate the jwt token and return it",
+    "metadata": {
+      "page": 38,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1239_ku_0",
+    "parent_id": "#/texts/1239",
+    "content": "access_token = token.create_access_token(data={\"sub\": user.email})",
+    "metadata": {
+      "page": 38,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1240_ku_0",
+    "parent_id": "#/texts/1240",
+    "content": "return {\"access_token\": access_token, \"token_type\":\"bearer\"}",
+    "metadata": {
+      "page": 38,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1264_ku_0",
+    "parent_id": "#/texts/1264",
+    "content": "username: str | None = None",
+    "metadata": {
+      "page": 38,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1279_ku_0",
+    "parent_id": "#/texts/1279",
+    "content": "email: str | None = None",
+    "metadata": {
+      "page": 39,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1293_ku_0",
+    "parent_id": "#/texts/1293",
+    "content": "4mofication of the schemas",
+    "metadata": {
+      "page": 39,
+      "block_type": "text",
+      "source_document": "Full_documentations_FastAPI.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/0_ku_0",
+    "parent_id": "#/texts/0",
+    "content": "I've been captivated by AI/ML since the end of my first year at the National Institute of Technology Durgapur.",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "parent_id": "#/texts/0",
+      "source_document": "Amazon SOP.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/0_ku_1",
+    "parent_id": "#/texts/0",
+    "content": "At that stage, I was unsure which direction to pursue within the vast field of computer science. While many of my peers gravitated toward web and software development, I found myself drawn to Machine Learning. As I explored the field further, I realized that it was the path I wanted to pursue.",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "parent_id": "#/texts/0",
+      "source_document": "Amazon SOP.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1_ku_0",
+    "parent_id": "#/texts/1",
+    "content": "At first, I struggled.",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "parent_id": "#/texts/1",
+      "source_document": "Amazon SOP.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1_ku_1",
+    "parent_id": "#/texts/1",
+    "content": "Andrew Ng's lectures felt advanced, so I turned to a Udemy course.",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "parent_id": "#/texts/1",
+      "source_document": "Amazon SOP.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1_ku_2",
+    "parent_id": "#/texts/1",
+    "content": "I learned ML fundamentals-mostly coding-and built a Boston Housing Predictor, understanding regression. My first personal project was an NVIDIA stock price predictor, where I tackled time-series forecasting.",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "parent_id": "#/texts/1",
+      "source_document": "Amazon SOP.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/2_ku_0",
+    "parent_id": "#/texts/2",
+    "content": "I also explored deep learning with TensorFlow and Keras, yet still felt a gap-I was using frameworks without truly understanding the mathematics behind them.",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "parent_id": "#/texts/2",
+      "source_document": "Amazon SOP.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/2_ku_1",
+    "parent_id": "#/texts/2",
+    "content": "Determined to bridge that gap, I began studying probability, statistics, and linear algebra through CampusX, an excellent YouTube channel that explains machine learning concepts from first principles. The experience helped me appreciate the theory behind the algorithms I was implementing, and I continue to learn more advanced machine learning topics through the channel today.",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "parent_id": "#/texts/2",
+      "source_document": "Amazon SOP.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/3_ku_0",
+    "parent_id": "#/texts/3",
+    "content": "Alongside my projects, I strengthened my foundations through coursework in Data Structures and Algorithms, Probability, Statistics, and Linear Algebra. These subjects helped me move beyond treating models as black boxes and understand the mathematical intuition behind optimization, generalization, and learning.",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "parent_id": "#/texts/3",
+      "source_document": "Amazon SOP.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/4_ku_0",
+    "parent_id": "#/texts/4",
+    "content": "Next, I was captivated by generative AI and especially the idea of Self Attention. I explored Transformers, reading and attempting to understand 'Attention Is All You Need,' which introduced me to the ideas behind modern Transformers.",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "parent_id": "#/texts/4",
+      "source_document": "Amazon SOP.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/4_ku_1",
+    "parent_id": "#/texts/4",
+    "content": "This led me to LLMs, building RAG systems with LangChain. I then discovered agentic AI-after trying CrewAI and PyDanticAI, I used LangGraph to build my first major project AgentML. This multi-agent system automates the entire ML pipeline, addressing data prep, feature engineering, and model selection.",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "parent_id": "#/texts/4",
+      "source_document": "Amazon SOP.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/5_ku_0",
+    "parent_id": "#/texts/5",
+    "content": "Another key project is SafeDrive, a drowsiness detection system. I built eye and yawn encoders, extracted features from facial landmarks, and analyzed video sequences to detect drowsiness.",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "parent_id": "#/texts/5",
+      "source_document": "Amazon SOP.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/5_ku_1",
+    "parent_id": "#/texts/5",
+    "content": "It's built for real-world use, identifying patterns over time, not just single frames.",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "parent_id": "#/texts/5",
+      "source_document": "Amazon SOP.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/6_ku_0",
+    "parent_id": "#/texts/6",
+    "content": "Despite these projects, I see gaps.",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "parent_id": "#/texts/6",
+      "source_document": "Amazon SOP.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/6_ku_1",
+    "parent_id": "#/texts/6",
+    "content": "I want a deeper mathematical understanding of ML-how theory translates to solving real-world problems. I also want to learn how to build AI that benefits the masses.",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "parent_id": "#/texts/6",
+      "source_document": "Amazon SOP.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/6_ku_2",
+    "parent_id": "#/texts/6",
+    "content": "Amazon does this daily-their AI doesn't stay theoretical; it shapes customer experiences, making lives easier. I want to learn from Amazon's scientists who work at that scale, applying AI for tangible, human-centered impact. With these insights, I'll be able to bridge my gaps and create AI that matters to people.",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "parent_id": "#/texts/6",
+      "source_document": "Amazon SOP.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/7_ku_0",
+    "parent_id": "#/texts/7",
+    "content": "I believe my experience spans both classical machine learning and modern AI systems.",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "parent_id": "#/texts/7",
+      "source_document": "Amazon SOP.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/7_ku_1",
+    "parent_id": "#/texts/7",
+    "content": "More importantly, I bring a willingness to learn, experiment, and persist through challenges. I hope to contribute actively to discussions at MLSS while learning from peers and researchers who share the same passion for AI.",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "parent_id": "#/texts/7",
+      "source_document": "Amazon SOP.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/1_ku_0",
+    "parent_id": "#/texts/1",
+    "content": "Provided proper attribution is provided, Google hereby grants permission to reproduce the tables and figures in this paper solely for use in journalistic or scholarly works.",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/3_ku_0",
+    "parent_id": "#/texts/3",
+    "content": "Ashish Vaswani ∗ Google Brain avaswani@google.com Noam Shazeer ∗ Google Brain noam@google.com",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/4_ku_0",
+    "parent_id": "#/texts/4",
+    "content": "Llion Jones ∗ Google Research llion@google.com Niki Parmar ∗ Google Research nikip@google.com Aidan N. Gomez ∗ † University of Toronto aidan@cs.toronto.edu Jakob Uszkoreit ∗ Google Research usz@google.com Łukasz Kaiser ∗ Google Brain lukaszkaiser@google.com Illia Polosukhin ∗ ‡",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/7_ku_0",
+    "parent_id": "#/texts/7",
+    "content": "The dominant sequence transduction models are based on complex recurrent or convolutional neural networks that include an encoder and a decoder. The best performing models also connect the encoder and decoder through an attention mechanism. We propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely.",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "parent_id": "#/texts/7",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/7_ku_1",
+    "parent_id": "#/texts/7",
+    "content": "Experiments on two machine translation tasks show these models to be superior in quality while being more parallelizable and requiring significantly less time to train. Our model achieves 28.4 BLEU on the WMT 2014 Englishto-German translation task, improving over the existing best results, including ensembles, by over 2 BLEU. On the WMT 2014 English-to-French translation task, our model establishes a new single-model state-of-the-art BLEU score of 41.8 after training for 3.5 days on eight GPUs, a small fraction of the training costs of the best models from the literature.",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "parent_id": "#/texts/7",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/7_ku_2",
+    "parent_id": "#/texts/7",
+    "content": "We show that the Transformer generalizes well to other tasks by applying it successfully to English constituency parsing both with large and limited training data.",
+    "metadata": {
+      "page": 1,
+      "block_type": "text",
+      "parent_id": "#/texts/7",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/13_ku_0",
+    "parent_id": "#/texts/13",
+    "content": "Recurrent neural networks, long short-term memory [13] and gated recurrent [7] neural networks in particular, have been firmly established as state of the art approaches in sequence modeling and transduction problems such as language modeling and machine translation [35, 2, 5]. Numerous efforts have since continued to push the boundaries of recurrent language models and encoder-decoder architectures [38, 24, 15].",
+    "metadata": {
+      "page": 2,
+      "block_type": "text",
+      "parent_id": "#/texts/13",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/14_ku_0",
+    "parent_id": "#/texts/14",
+    "content": "Recurrent models typically factor computation along the symbol positions of the input and output sequences. Aligning the positions to steps in computation time, they generate a sequence of hidden states h t , as a function of the previous hidden state h t -1 and the input for position t .",
+    "metadata": {
+      "page": 2,
+      "block_type": "text",
+      "parent_id": "#/texts/14",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/14_ku_1",
+    "parent_id": "#/texts/14",
+    "content": "This inherently sequential nature precludes parallelization within training examples, which becomes critical at longer sequence lengths, as memory constraints limit batching across examples.",
+    "metadata": {
+      "page": 2,
+      "block_type": "text",
+      "parent_id": "#/texts/14",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/14_ku_2",
+    "parent_id": "#/texts/14",
+    "content": "Recent work has achieved significant improvements in computational efficiency through factorization tricks [21] and conditional computation [32], while also improving model performance in case of the latter.",
+    "metadata": {
+      "page": 2,
+      "block_type": "text",
+      "parent_id": "#/texts/14",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/14_ku_3",
+    "parent_id": "#/texts/14",
+    "content": "The fundamental constraint of sequential computation, however, remains.",
+    "metadata": {
+      "page": 2,
+      "block_type": "text",
+      "parent_id": "#/texts/14",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/15_ku_0",
+    "parent_id": "#/texts/15",
+    "content": "Attention mechanisms have become an integral part of compelling sequence modeling and transduction models in various tasks, allowing modeling of dependencies without regard to their distance in the input or output sequences [2, 19]. In all but a few cases [27], however, such attention mechanisms are used in conjunction with a recurrent network.",
+    "metadata": {
+      "page": 2,
+      "block_type": "text",
+      "parent_id": "#/texts/15",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/16_ku_0",
+    "parent_id": "#/texts/16",
+    "content": "In this work we propose the Transformer, a model architecture eschewing recurrence and instead relying entirely on an attention mechanism to draw global dependencies between input and output.",
+    "metadata": {
+      "page": 2,
+      "block_type": "text",
+      "parent_id": "#/texts/16",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/16_ku_1",
+    "parent_id": "#/texts/16",
+    "content": "The Transformer allows for significantly more parallelization and can reach a new state of the art in translation quality after being trained for as little as twelve hours on eight P100 GPUs.",
+    "metadata": {
+      "page": 2,
+      "block_type": "text",
+      "parent_id": "#/texts/16",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/18_ku_0",
+    "parent_id": "#/texts/18",
+    "content": "The goal of reducing sequential computation also forms the foundation of the Extended Neural GPU [16], ByteNet [18] and ConvS2S [9], all of which use convolutional neural networks as basic building block, computing hidden representations in parallel for all input and output positions. In these models, the number of operations required to relate signals from two arbitrary input or output positions grows in the distance between positions, linearly for ConvS2S and logarithmically for ByteNet. This makes it more difficult to learn dependencies between distant positions [12].",
+    "metadata": {
+      "page": 2,
+      "block_type": "text",
+      "parent_id": "#/texts/18",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/18_ku_1",
+    "parent_id": "#/texts/18",
+    "content": "In the Transformer this is reduced to a constant number of operations, albeit at the cost of reduced effective resolution due to averaging attention-weighted positions, an effect we counteract with Multi-Head Attention as described in section 3.2.",
+    "metadata": {
+      "page": 2,
+      "block_type": "text",
+      "parent_id": "#/texts/18",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/19_ku_0",
+    "parent_id": "#/texts/19",
+    "content": "Self-attention, sometimes called intra-attention is an attention mechanism relating different positions of a single sequence in order to compute a representation of the sequence. Self-attention has been used successfully in a variety of tasks including reading comprehension, abstractive summarization, textual entailment and learning task-independent sentence representations [4, 27, 28, 22].",
+    "metadata": {
+      "page": 2,
+      "block_type": "text",
+      "parent_id": "#/texts/19",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/20_ku_0",
+    "parent_id": "#/texts/20",
+    "content": "End-to-end memory networks are based on a recurrent attention mechanism instead of sequencealigned recurrence and have been shown to perform well on simple-language question answering and language modeling tasks [34].",
+    "metadata": {
+      "page": 2,
+      "block_type": "text",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/21_ku_0",
+    "parent_id": "#/texts/21",
+    "content": "To the best of our knowledge, however, the Transformer is the first transduction model relying entirely on self-attention to compute representations of its input and output without using sequencealigned RNNs or convolution. In the following sections, we will describe the Transformer, motivate self-attention and discuss its advantages over models such as [17, 18] and [9].",
+    "metadata": {
+      "page": 2,
+      "block_type": "text",
+      "parent_id": "#/texts/21",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/23_ku_0",
+    "parent_id": "#/texts/23",
+    "content": "Most competitive neural sequence transduction models have an encoder-decoder structure [5, 2, 35]. Here, the encoder maps an input sequence of symbol representations ( x 1 , ..., x n ) to a sequence of continuous representations z = ( z 1 , ..., z n ) . Given z , the decoder then generates an output sequence ( y 1 , ..., y m ) of symbols one element at a time. At each step the model is auto-regressive [10], consuming the previously generated symbols as additional input when generating the next.",
+    "metadata": {
+      "page": 2,
+      "block_type": "text",
+      "parent_id": "#/texts/23",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/59_ku_0",
+    "parent_id": "#/texts/59",
+    "content": "The Transformer follows this overall architecture using stacked self-attention and point-wise, fully connected layers for both the encoder and decoder, shown in the left and right halves of Figure 1, respectively.",
+    "metadata": {
+      "page": 3,
+      "block_type": "text",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/61_ku_0",
+    "parent_id": "#/texts/61",
+    "content": "Encoder: The encoder is composed of a stack of N = 6 identical layers. Each layer has two sub-layers. The first is a multi-head self-attention mechanism, and the second is a simple, positionwise fully connected feed-forward network. We employ a residual connection [11] around each of the two sub-layers, followed by layer normalization [1]. That is, the output of each sub-layer is LayerNorm( x +Sublayer( x )) , where Sublayer( x ) is the function implemented by the sub-layer itself. To facilitate these residual connections, all sub-layers in the model, as well as the embedding layers, produce outputs of dimension d model = 512 .",
+    "metadata": {
+      "page": 3,
+      "block_type": "text",
+      "parent_id": "#/texts/61",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/62_ku_0",
+    "parent_id": "#/texts/62",
+    "content": "Decoder: The decoder is also composed of a stack of N = 6 identical layers. In addition to the two sub-layers in each encoder layer, the decoder inserts a third sub-layer, which performs multi-head attention over the output of the encoder stack. Similar to the encoder, we employ residual connections around each of the sub-layers, followed by layer normalization. We also modify the self-attention sub-layer in the decoder stack to prevent positions from attending to subsequent positions. This masking, combined with fact that the output embeddings are offset by one position, ensures that the predictions for position i can depend only on the known outputs at positions less than i .",
+    "metadata": {
+      "page": 3,
+      "block_type": "text",
+      "parent_id": "#/texts/62",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/64_ku_0",
+    "parent_id": "#/texts/64",
+    "content": "An attention function can be described as mapping a query and a set of key-value pairs to an output, where the query, keys, values, and output are all vectors. The output is computed as a weighted sum",
+    "metadata": {
+      "page": 3,
+      "block_type": "text",
+      "parent_id": "#/texts/64",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/87_ku_0",
+    "parent_id": "#/texts/87",
+    "content": "of the values, where the weight assigned to each value is computed by a compatibility function of the query with the corresponding key.",
+    "metadata": {
+      "page": 4,
+      "block_type": "text",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/89_ku_0",
+    "parent_id": "#/texts/89",
+    "content": "We call our particular attention \"Scaled Dot-Product Attention\" (Figure 2).",
+    "metadata": {
+      "page": 4,
+      "block_type": "text",
+      "parent_id": "#/texts/89",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/89_ku_1",
+    "parent_id": "#/texts/89",
+    "content": "The input consists of queries and keys of dimension d k , and values of dimension d v . We compute the dot products of the query with all keys, divide each by √ d k , and apply a softmax function to obtain the weights on the values.",
+    "metadata": {
+      "page": 4,
+      "block_type": "text",
+      "parent_id": "#/texts/89",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/90_ku_0",
+    "parent_id": "#/texts/90",
+    "content": "In practice, we compute the attention function on a set of queries simultaneously, packed together into a matrix Q . The keys and values are also packed together into matrices K and V . We compute the matrix of outputs as:",
+    "metadata": {
+      "page": 4,
+      "block_type": "text",
+      "parent_id": "#/texts/90",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/92_ku_0",
+    "parent_id": "#/texts/92",
+    "content": "The two most commonly used attention functions are additive attention [2], and dot-product (multiplicative) attention. Dot-product attention is identical to our algorithm, except for the scaling factor of 1 √ d k . Additive attention computes the compatibility function using a feed-forward network with a single hidden layer. While the two are similar in theoretical complexity, dot-product attention is much faster and more space-efficient in practice, since it can be implemented using highly optimized matrix multiplication code.",
+    "metadata": {
+      "page": 4,
+      "block_type": "text",
+      "parent_id": "#/texts/92",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/93_ku_0",
+    "parent_id": "#/texts/93",
+    "content": "While for small values of d k the two mechanisms perform similarly, additive attention outperforms dot product attention without scaling for larger values of d k [3]. We suspect that for large values of d k , the dot products grow large in magnitude, pushing the softmax function into regions where it has extremely small gradients 4 . To counteract this effect, we scale the dot products by 1 √ d k .",
+    "metadata": {
+      "page": 4,
+      "block_type": "text",
+      "parent_id": "#/texts/93",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/95_ku_0",
+    "parent_id": "#/texts/95",
+    "content": "Instead of performing a single attention function with d model-dimensional keys, values and queries, we found it beneficial to linearly project the queries, keys and values h times with different, learned linear projections to d k , d k and d v dimensions, respectively. On each of these projected versions of queries, keys and values we then perform the attention function in parallel, yielding d v -dimensional output values.",
+    "metadata": {
+      "page": 4,
+      "block_type": "text",
+      "parent_id": "#/texts/95",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/95_ku_1",
+    "parent_id": "#/texts/95",
+    "content": "These are concatenated and once again projected, resulting in the final values, as depicted in Figure 2.",
+    "metadata": {
+      "page": 4,
+      "block_type": "text",
+      "parent_id": "#/texts/95",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/98_ku_0",
+    "parent_id": "#/texts/98",
+    "content": "Multi-head attention allows the model to jointly attend to information from different representation subspaces at different positions. With a single attention head, averaging inhibits this.",
+    "metadata": {
+      "page": 5,
+      "block_type": "text",
+      "parent_id": "#/texts/98",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/100_ku_0",
+    "parent_id": "#/texts/100",
+    "content": "Where the projections are parameter matrices W Q i ∈ R d model × d k , W i K ∈ R d model × d k , W V i ∈ R d model × d v and W O ∈ R hd v × d model .",
+    "metadata": {
+      "page": 5,
+      "block_type": "text",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/101_ku_0",
+    "parent_id": "#/texts/101",
+    "content": "In this work we employ h = 8 parallel attention layers, or heads.",
+    "metadata": {
+      "page": 5,
+      "block_type": "text",
+      "parent_id": "#/texts/101",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/101_ku_1",
+    "parent_id": "#/texts/101",
+    "content": "For each of these we use d k = d v = d model /h = 64 .",
+    "metadata": {
+      "page": 5,
+      "block_type": "text",
+      "parent_id": "#/texts/101",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/101_ku_2",
+    "parent_id": "#/texts/101",
+    "content": "Due to the reduced dimension of each head, the total computational cost is similar to that of single-head attention with full dimensionality.",
+    "metadata": {
+      "page": 5,
+      "block_type": "text",
+      "parent_id": "#/texts/101",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/103_ku_0",
+    "parent_id": "#/texts/103",
+    "content": "The Transformer uses multi-head attention in three different ways:",
+    "metadata": {
+      "page": 5,
+      "block_type": "text",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/108_ku_0",
+    "parent_id": "#/texts/108",
+    "content": "In addition to attention sub-layers, each of the layers in our encoder and decoder contains a fully connected feed-forward network, which is applied to each position separately and identically.",
+    "metadata": {
+      "page": 5,
+      "block_type": "text",
+      "parent_id": "#/texts/108",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/108_ku_1",
+    "parent_id": "#/texts/108",
+    "content": "This consists of two linear transformations with a ReLU activation in between.",
+    "metadata": {
+      "page": 5,
+      "block_type": "text",
+      "parent_id": "#/texts/108",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/110_ku_0",
+    "parent_id": "#/texts/110",
+    "content": "While the linear transformations are the same across different positions, they use different parameters from layer to layer.",
+    "metadata": {
+      "page": 5,
+      "block_type": "text",
+      "parent_id": "#/texts/110",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/110_ku_1",
+    "parent_id": "#/texts/110",
+    "content": "Another way of describing this is as two convolutions with kernel size 1.",
+    "metadata": {
+      "page": 5,
+      "block_type": "text",
+      "parent_id": "#/texts/110",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/110_ku_2",
+    "parent_id": "#/texts/110",
+    "content": "The dimensionality of input and output is d model = 512 , and the inner-layer has dimensionality d ff = 2048 .",
+    "metadata": {
+      "page": 5,
+      "block_type": "text",
+      "parent_id": "#/texts/110",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/112_ku_0",
+    "parent_id": "#/texts/112",
+    "content": "Similarly to other sequence transduction models, we use learned embeddings to convert the input tokens and output tokens to vectors of dimension d model. We also use the usual learned linear transformation and softmax function to convert the decoder output to predicted next-token probabilities. In our model, we share the same weight matrix between the two embedding layers and the pre-softmax linear transformation, similar to [30]. In the embedding layers, we multiply those weights by √ d model.",
+    "metadata": {
+      "page": 5,
+      "block_type": "text",
+      "parent_id": "#/texts/112",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/116_ku_0",
+    "parent_id": "#/texts/116",
+    "content": "Since our model contains no recurrence and no convolution, in order for the model to make use of the order of the sequence, we must inject some information about the relative or absolute position of the tokens in the sequence. To this end, we add \"positional encodings\" to the input embeddings at the bottoms of the encoder and decoder stacks. The positional encodings have the same dimension d model as the embeddings, so that the two can be summed. There are many choices of positional encodings, learned and fixed [9].",
+    "metadata": {
+      "page": 6,
+      "block_type": "text",
+      "parent_id": "#/texts/116",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/117_ku_0",
+    "parent_id": "#/texts/117",
+    "content": "In this work, we use sine and cosine functions of different frequencies:",
+    "metadata": {
+      "page": 6,
+      "block_type": "text",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/119_ku_0",
+    "parent_id": "#/texts/119",
+    "content": "where pos is the position and i is the dimension. That is, each dimension of the positional encoding corresponds to a sinusoid. The wavelengths form a geometric progression from 2 π to 10000 · 2 π .",
+    "metadata": {
+      "page": 6,
+      "block_type": "text",
+      "parent_id": "#/texts/119",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/119_ku_1",
+    "parent_id": "#/texts/119",
+    "content": "We chose this function because we hypothesized it would allow the model to easily learn to attend by relative positions, since for any fixed offset k , PE pos + k can be represented as a linear function of PE pos .",
+    "metadata": {
+      "page": 6,
+      "block_type": "text",
+      "parent_id": "#/texts/119",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/120_ku_0",
+    "parent_id": "#/texts/120",
+    "content": "We also experimented with using learned positional embeddings [9] instead, and found that the two versions produced nearly identical results (see Table 3 row (E)).",
+    "metadata": {
+      "page": 6,
+      "block_type": "text",
+      "parent_id": "#/texts/120",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/120_ku_1",
+    "parent_id": "#/texts/120",
+    "content": "We chose the sinusoidal version because it may allow the model to extrapolate to sequence lengths longer than the ones encountered during training.",
+    "metadata": {
+      "page": 6,
+      "block_type": "text",
+      "parent_id": "#/texts/120",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/122_ku_0",
+    "parent_id": "#/texts/122",
+    "content": "In this section we compare various aspects of self-attention layers to the recurrent and convolutional layers commonly used for mapping one variable-length sequence of symbol representations ( x 1 , ..., x n ) to another sequence of equal length ( z 1 , ..., z n ) , with x i , z i ∈ R d , such as a hidden layer in a typical sequence transduction encoder or decoder.",
+    "metadata": {
+      "page": 6,
+      "block_type": "text",
+      "parent_id": "#/texts/122",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/122_ku_1",
+    "parent_id": "#/texts/122",
+    "content": "Motivating our use of self-attention we consider three desiderata.",
+    "metadata": {
+      "page": 6,
+      "block_type": "text",
+      "parent_id": "#/texts/122",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/123_ku_0",
+    "parent_id": "#/texts/123",
+    "content": "One is the total computational complexity per layer. Another is the amount of computation that can be parallelized, as measured by the minimum number of sequential operations required.",
+    "metadata": {
+      "page": 6,
+      "block_type": "text",
+      "parent_id": "#/texts/123",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/124_ku_0",
+    "parent_id": "#/texts/124",
+    "content": "The third is the path length between long-range dependencies in the network. Learning long-range dependencies is a key challenge in many sequence transduction tasks. One key factor affecting the ability to learn such dependencies is the length of the paths forward and backward signals have to traverse in the network. The shorter these paths between any combination of positions in the input and output sequences, the easier it is to learn long-range dependencies [12]. Hence we also compare the maximum path length between any two input and output positions in networks composed of the different layer types.",
+    "metadata": {
+      "page": 6,
+      "block_type": "text",
+      "parent_id": "#/texts/124",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/125_ku_0",
+    "parent_id": "#/texts/125",
+    "content": "As noted in Table 1, a self-attention layer connects all positions with a constant number of sequentially executed operations, whereas a recurrent layer requires O ( n ) sequential operations. In terms of computational complexity, self-attention layers are faster than recurrent layers when the sequence length n is smaller than the representation dimensionality d , which is most often the case with sentence representations used by state-of-the-art models in machine translations, such as word-piece [38] and byte-pair [31] representations. To improve computational performance for tasks involving very long sequences, self-attention could be restricted to considering only a neighborhood of size r in the input sequence centered around the respective output position. This would increase the maximum path length to O ( n/r ) .",
+    "metadata": {
+      "page": 6,
+      "block_type": "text",
+      "parent_id": "#/texts/125",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/125_ku_1",
+    "parent_id": "#/texts/125",
+    "content": "We plan to investigate this approach further in future work.",
+    "metadata": {
+      "page": 6,
+      "block_type": "text",
+      "parent_id": "#/texts/125",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/127_ku_0",
+    "parent_id": "#/texts/127",
+    "content": "A single convolutional layer with kernel width k < n does not connect all pairs of input and output positions. Doing so requires a stack of O ( n/k ) convolutional layers in the case of contiguous kernels, or O ( log k ( n )) in the case of dilated convolutions [18], increasing the length of the longest paths between any two positions in the network. Convolutional layers are generally more expensive than recurrent layers, by a factor of k . Separable convolutions [6], however, decrease the complexity considerably, to O ( k · n · d + n · d 2 ) . Even with k = n , however, the complexity of a separable convolution is equal to the combination of a self-attention layer and a point-wise feed-forward layer, the approach we take in our model.",
+    "metadata": {
+      "page": 7,
+      "block_type": "text",
+      "parent_id": "#/texts/127",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/128_ku_0",
+    "parent_id": "#/texts/128",
+    "content": "As side benefit, self-attention could yield more interpretable models. We inspect attention distributions from our models and present and discuss examples in the appendix.",
+    "metadata": {
+      "page": 7,
+      "block_type": "text",
+      "parent_id": "#/texts/128",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/128_ku_1",
+    "parent_id": "#/texts/128",
+    "content": "Not only do individual attention heads clearly learn to perform different tasks, many appear to exhibit behavior related to the syntactic and semantic structure of the sentences.",
+    "metadata": {
+      "page": 7,
+      "block_type": "text",
+      "parent_id": "#/texts/128",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/130_ku_0",
+    "parent_id": "#/texts/130",
+    "content": "This section describes the training regime for our models.",
+    "metadata": {
+      "page": 7,
+      "block_type": "text",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/132_ku_0",
+    "parent_id": "#/texts/132",
+    "content": "We trained on the standard WMT 2014 English-German dataset consisting of about 4.5 million sentence pairs. Sentences were encoded using byte-pair encoding [3], which has a shared sourcetarget vocabulary of about 37000 tokens. For English-French, we used the significantly larger WMT 2014 English-French dataset consisting of 36M sentences and split tokens into a 32000 word-piece vocabulary [38]. Sentence pairs were batched together by approximate sequence length. Each training batch contained a set of sentence pairs containing approximately 25000 source tokens and 25000 target tokens.",
+    "metadata": {
+      "page": 7,
+      "block_type": "text",
+      "parent_id": "#/texts/132",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/134_ku_0",
+    "parent_id": "#/texts/134",
+    "content": "We trained our models on one machine with 8 NVIDIA P100 GPUs.",
+    "metadata": {
+      "page": 7,
+      "block_type": "text",
+      "parent_id": "#/texts/134",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/134_ku_1",
+    "parent_id": "#/texts/134",
+    "content": "For our base models using the hyperparameters described throughout the paper, each training step took about 0.4 seconds.",
+    "metadata": {
+      "page": 7,
+      "block_type": "text",
+      "parent_id": "#/texts/134",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/134_ku_2",
+    "parent_id": "#/texts/134",
+    "content": "We trained the base models for a total of 100,000 steps or 12 hours.",
+    "metadata": {
+      "page": 7,
+      "block_type": "text",
+      "parent_id": "#/texts/134",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/134_ku_3",
+    "parent_id": "#/texts/134",
+    "content": "For our big models,(described on the bottom line of table 3), step time was 1.0 seconds. The big models were trained for 300,000 steps (3.5 days).",
+    "metadata": {
+      "page": 7,
+      "block_type": "text",
+      "parent_id": "#/texts/134",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/136_ku_0",
+    "parent_id": "#/texts/136",
+    "content": "We used the Adam optimizer [20] with β 1 = 0 . 9 , β 2 = 0 . 98 and ϵ = 10 -9 .",
+    "metadata": {
+      "page": 7,
+      "block_type": "text",
+      "parent_id": "#/texts/136",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/136_ku_1",
+    "parent_id": "#/texts/136",
+    "content": "We varied the learning rate over the course of training, according to the formula:",
+    "metadata": {
+      "page": 7,
+      "block_type": "text",
+      "parent_id": "#/texts/136",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/138_ku_0",
+    "parent_id": "#/texts/138",
+    "content": "This corresponds to increasing the learning rate linearly for the first warmup _ steps training steps, and decreasing it thereafter proportionally to the inverse square root of the step number. We used warmup _ steps = 4000 .",
+    "metadata": {
+      "page": 7,
+      "block_type": "text",
+      "parent_id": "#/texts/138",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/140_ku_0",
+    "parent_id": "#/texts/140",
+    "content": "We employ three types of regularization during training:",
+    "metadata": {
+      "page": 7,
+      "block_type": "text",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/143_ku_0",
+    "parent_id": "#/texts/143",
+    "content": "Residual Dropout We apply dropout [33] to the output of each sub-layer, before it is added to the sub-layer input and normalized. In addition, we apply dropout to the sums of the embeddings and the positional encodings in both the encoder and decoder stacks.",
+    "metadata": {
+      "page": 8,
+      "block_type": "text",
+      "parent_id": "#/texts/143",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/143_ku_1",
+    "parent_id": "#/texts/143",
+    "content": "For the base model, we use a rate of P drop = 0 .",
+    "metadata": {
+      "page": 8,
+      "block_type": "text",
+      "parent_id": "#/texts/143",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/143_ku_2",
+    "parent_id": "#/texts/143",
+    "content": "1 .",
+    "metadata": {
+      "page": 8,
+      "block_type": "text",
+      "parent_id": "#/texts/143",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/144_ku_0",
+    "parent_id": "#/texts/144",
+    "content": "Label Smoothing During training, we employed label smoothing of value ϵ ls = 0 .",
+    "metadata": {
+      "page": 8,
+      "block_type": "text",
+      "parent_id": "#/texts/144",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/144_ku_1",
+    "parent_id": "#/texts/144",
+    "content": "1 [36].",
+    "metadata": {
+      "page": 8,
+      "block_type": "text",
+      "parent_id": "#/texts/144",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/144_ku_2",
+    "parent_id": "#/texts/144",
+    "content": "This hurts perplexity, as the model learns to be more unsure, but improves accuracy and BLEU score.",
+    "metadata": {
+      "page": 8,
+      "block_type": "text",
+      "parent_id": "#/texts/144",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/147_ku_0",
+    "parent_id": "#/texts/147",
+    "content": "On the WMT 2014 English-to-German translation task, the big transformer model (Transformer (big) in Table 2) outperforms the best previously reported models (including ensembles) by more than 2 .",
+    "metadata": {
+      "page": 8,
+      "block_type": "text",
+      "parent_id": "#/texts/147",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/147_ku_1",
+    "parent_id": "#/texts/147",
+    "content": "0 BLEU, establishing a new state-of-the-art BLEU score of 28 .",
+    "metadata": {
+      "page": 8,
+      "block_type": "text",
+      "parent_id": "#/texts/147",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/147_ku_2",
+    "parent_id": "#/texts/147",
+    "content": "4 .",
+    "metadata": {
+      "page": 8,
+      "block_type": "text",
+      "parent_id": "#/texts/147",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/147_ku_3",
+    "parent_id": "#/texts/147",
+    "content": "The configuration of this model is listed in the bottom line of Table 3.",
+    "metadata": {
+      "page": 8,
+      "block_type": "text",
+      "parent_id": "#/texts/147",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/147_ku_4",
+    "parent_id": "#/texts/147",
+    "content": "Training took 3 .",
+    "metadata": {
+      "page": 8,
+      "block_type": "text",
+      "parent_id": "#/texts/147",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/147_ku_5",
+    "parent_id": "#/texts/147",
+    "content": "5 days on 8 P100 GPUs.",
+    "metadata": {
+      "page": 8,
+      "block_type": "text",
+      "parent_id": "#/texts/147",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/147_ku_6",
+    "parent_id": "#/texts/147",
+    "content": "Even our base model surpasses all previously published models and ensembles, at a fraction of the training cost of any of the competitive models.",
+    "metadata": {
+      "page": 8,
+      "block_type": "text",
+      "parent_id": "#/texts/147",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/148_ku_0",
+    "parent_id": "#/texts/148",
+    "content": "On the WMT 2014 English-to-French translation task, our big model achieves a BLEU score of 41 .",
+    "metadata": {
+      "page": 8,
+      "block_type": "text",
+      "parent_id": "#/texts/148",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/148_ku_1",
+    "parent_id": "#/texts/148",
+    "content": "0 , outperforming all of the previously published single models, at less than 1 / 4 the training cost of the previous state-of-the-art model.",
+    "metadata": {
+      "page": 8,
+      "block_type": "text",
+      "parent_id": "#/texts/148",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/148_ku_2",
+    "parent_id": "#/texts/148",
+    "content": "The Transformer (big) model trained for English-to-French used dropout rate P drop = 0 .",
+    "metadata": {
+      "page": 8,
+      "block_type": "text",
+      "parent_id": "#/texts/148",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/148_ku_3",
+    "parent_id": "#/texts/148",
+    "content": "1 , instead of 0 .",
+    "metadata": {
+      "page": 8,
+      "block_type": "text",
+      "parent_id": "#/texts/148",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/148_ku_4",
+    "parent_id": "#/texts/148",
+    "content": "3 .",
+    "metadata": {
+      "page": 8,
+      "block_type": "text",
+      "parent_id": "#/texts/148",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/149_ku_0",
+    "parent_id": "#/texts/149",
+    "content": "For the base models, we used a single model obtained by averaging the last 5 checkpoints, which were written at 10-minute intervals. For the big models, we averaged the last 20 checkpoints.",
+    "metadata": {
+      "page": 8,
+      "block_type": "text",
+      "parent_id": "#/texts/149",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/149_ku_1",
+    "parent_id": "#/texts/149",
+    "content": "We used beam search with a beam size of 4 and length penalty α = 0 .",
+    "metadata": {
+      "page": 8,
+      "block_type": "text",
+      "parent_id": "#/texts/149",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/149_ku_2",
+    "parent_id": "#/texts/149",
+    "content": "6 [38].",
+    "metadata": {
+      "page": 8,
+      "block_type": "text",
+      "parent_id": "#/texts/149",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/149_ku_3",
+    "parent_id": "#/texts/149",
+    "content": "These hyperparameters were chosen after experimentation on the development set.",
+    "metadata": {
+      "page": 8,
+      "block_type": "text",
+      "parent_id": "#/texts/149",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/149_ku_4",
+    "parent_id": "#/texts/149",
+    "content": "We set the maximum output length during inference to input length + 50 , but terminate early when possible [38].",
+    "metadata": {
+      "page": 8,
+      "block_type": "text",
+      "parent_id": "#/texts/149",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/150_ku_0",
+    "parent_id": "#/texts/150",
+    "content": "Table 2 summarizes our results and compares our translation quality and training costs to other model architectures from the literature. We estimate the number of floating point operations used to train a model by multiplying the training time, the number of GPUs used, and an estimate of the sustained single-precision floating-point capacity of each GPU 5 .",
+    "metadata": {
+      "page": 8,
+      "block_type": "text",
+      "parent_id": "#/texts/150",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/152_ku_0",
+    "parent_id": "#/texts/152",
+    "content": "To evaluate the importance of different components of the Transformer, we varied our base model in different ways, measuring the change in performance on English-to-German translation on the development set, newstest2013.",
+    "metadata": {
+      "page": 8,
+      "block_type": "text",
+      "parent_id": "#/texts/152",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/152_ku_1",
+    "parent_id": "#/texts/152",
+    "content": "We used beam search as described in the previous section, but no checkpoint averaging.",
+    "metadata": {
+      "page": 8,
+      "block_type": "text",
+      "parent_id": "#/texts/152",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/152_ku_2",
+    "parent_id": "#/texts/152",
+    "content": "We present these results in Table 3.",
+    "metadata": {
+      "page": 8,
+      "block_type": "text",
+      "parent_id": "#/texts/152",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/156_ku_0",
+    "parent_id": "#/texts/156",
+    "content": "In Table 3 rows (A), we vary the number of attention heads and the attention key and value dimensions, keeping the amount of computation constant, as described in Section 3.2.2.",
+    "metadata": {
+      "page": 9,
+      "block_type": "text",
+      "parent_id": "#/texts/156",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/156_ku_1",
+    "parent_id": "#/texts/156",
+    "content": "While single-head attention is 0.9 BLEU worse than the best setting, quality also drops off with too many heads.",
+    "metadata": {
+      "page": 9,
+      "block_type": "text",
+      "parent_id": "#/texts/156",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/157_ku_0",
+    "parent_id": "#/texts/157",
+    "content": "In Table 3 rows (B), we observe that reducing the attention key size d k hurts model quality.",
+    "metadata": {
+      "page": 9,
+      "block_type": "text",
+      "parent_id": "#/texts/157",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/157_ku_1",
+    "parent_id": "#/texts/157",
+    "content": "This suggests that determining compatibility is not easy and that a more sophisticated compatibility function than dot product may be beneficial.",
+    "metadata": {
+      "page": 9,
+      "block_type": "text",
+      "parent_id": "#/texts/157",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/157_ku_2",
+    "parent_id": "#/texts/157",
+    "content": "We further observe in rows (C) and (D) that, as expected, bigger models are better, and dropout is very helpful in avoiding over-fitting.",
+    "metadata": {
+      "page": 9,
+      "block_type": "text",
+      "parent_id": "#/texts/157",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/157_ku_3",
+    "parent_id": "#/texts/157",
+    "content": "In row (E) we replace our sinusoidal positional encoding with learned positional embeddings [9], and observe nearly identical results to the base model.",
+    "metadata": {
+      "page": 9,
+      "block_type": "text",
+      "parent_id": "#/texts/157",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/159_ku_0",
+    "parent_id": "#/texts/159",
+    "content": "To evaluate if the Transformer can generalize to other tasks we performed experiments on English constituency parsing.",
+    "metadata": {
+      "page": 9,
+      "block_type": "text",
+      "parent_id": "#/texts/159",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/159_ku_1",
+    "parent_id": "#/texts/159",
+    "content": "This task presents specific challenges: the output is subject to strong structural constraints and is significantly longer than the input. Furthermore, RNN sequence-to-sequence models have not been able to attain state-of-the-art results in small-data regimes [37].",
+    "metadata": {
+      "page": 9,
+      "block_type": "text",
+      "parent_id": "#/texts/159",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/160_ku_0",
+    "parent_id": "#/texts/160",
+    "content": "We trained a 4-layer transformer with d model = 1024 on the Wall Street Journal (WSJ) portion of the Penn Treebank [25], about 40K training sentences. We also trained it in a semi-supervised setting, using the larger high-confidence and BerkleyParser corpora from with approximately 17M sentences [37]. We used a vocabulary of 16K tokens for the WSJ only setting and a vocabulary of 32K tokens for the semi-supervised setting.",
+    "metadata": {
+      "page": 9,
+      "block_type": "text",
+      "parent_id": "#/texts/160",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/161_ku_0",
+    "parent_id": "#/texts/161",
+    "content": "We performed only a small number of experiments to select the dropout, both attention and residual (section 5.4), learning rates and beam size on the Section 22 development set, all other parameters remained unchanged from the English-to-German base translation model.",
+    "metadata": {
+      "page": 9,
+      "block_type": "text",
+      "parent_id": "#/texts/161",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/161_ku_1",
+    "parent_id": "#/texts/161",
+    "content": "During inference, we increased the maximum output length to input length + 300 .",
+    "metadata": {
+      "page": 9,
+      "block_type": "text",
+      "parent_id": "#/texts/161",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/161_ku_2",
+    "parent_id": "#/texts/161",
+    "content": "We used a beam size of 21 and α = 0 .",
+    "metadata": {
+      "page": 9,
+      "block_type": "text",
+      "parent_id": "#/texts/161",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/161_ku_3",
+    "parent_id": "#/texts/161",
+    "content": "3 for both WSJ only and the semi-supervised setting.",
+    "metadata": {
+      "page": 9,
+      "block_type": "text",
+      "parent_id": "#/texts/161",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/164_ku_0",
+    "parent_id": "#/texts/164",
+    "content": "Our results in Table 4 show that despite the lack of task-specific tuning our model performs surprisingly well, yielding better results than all previously reported models with the exception of the Recurrent Neural Network Grammar [8].",
+    "metadata": {
+      "page": 10,
+      "block_type": "text",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/165_ku_0",
+    "parent_id": "#/texts/165",
+    "content": "In contrast to RNN sequence-to-sequence models [37], the Transformer outperforms the BerkeleyParser [29] even when training only on the WSJ training set of 40K sentences.",
+    "metadata": {
+      "page": 10,
+      "block_type": "text",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/167_ku_0",
+    "parent_id": "#/texts/167",
+    "content": "In this work, we presented the Transformer, the first sequence transduction model based entirely on attention, replacing the recurrent layers most commonly used in encoder-decoder architectures with multi-headed self-attention.",
+    "metadata": {
+      "page": 10,
+      "block_type": "text",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/168_ku_0",
+    "parent_id": "#/texts/168",
+    "content": "For translation tasks, the Transformer can be trained significantly faster than architectures based on recurrent or convolutional layers. On both WMT 2014 English-to-German and WMT 2014 English-to-French translation tasks, we achieve a new state of the art.",
+    "metadata": {
+      "page": 10,
+      "block_type": "text",
+      "parent_id": "#/texts/168",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/168_ku_1",
+    "parent_id": "#/texts/168",
+    "content": "In the former task our best model outperforms even all previously reported ensembles.",
+    "metadata": {
+      "page": 10,
+      "block_type": "text",
+      "parent_id": "#/texts/168",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/169_ku_0",
+    "parent_id": "#/texts/169",
+    "content": "We are excited about the future of attention-based models and plan to apply them to other tasks. We plan to extend the Transformer to problems involving input and output modalities other than text and to investigate local, restricted attention mechanisms to efficiently handle large inputs and outputs such as images, audio and video.",
+    "metadata": {
+      "page": 10,
+      "block_type": "text",
+      "parent_id": "#/texts/169",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/169_ku_1",
+    "parent_id": "#/texts/169",
+    "content": "Making generation less sequential is another research goals of ours.",
+    "metadata": {
+      "page": 10,
+      "block_type": "text",
+      "parent_id": "#/texts/169",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/170_ku_0",
+    "parent_id": "#/texts/170",
+    "content": "The code we used to train and evaluate our models is available at https://github.com/ tensorflow/tensor2tensor .",
+    "metadata": {
+      "page": 10,
+      "block_type": "text",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  },
+  {
+    "ku_id": "#/texts/171_ku_0",
+    "parent_id": "#/texts/171",
+    "content": "Acknowledgements We are grateful to Nal Kalchbrenner and Stephan Gouws for their fruitful comments, corrections and inspiration.",
+    "metadata": {
+      "page": 10,
+      "block_type": "text",
+      "source_document": "attention_is_all_u_need.pdf"
+    }
+  }
+]

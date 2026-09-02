@@ -1,0 +1,297 @@
+[
+  {
+    "id": "fastapi_001",
+    "source": "FastAPI",
+    "query": "How does the FastAPI example retrieve a blog by ID from the database?",
+    "ground_truth": "It defines a GET /blog/{id} route, queries models.Blog filtered by models.Blog.id == id, and returns the first matching blog.",
+    "relevant_nodes": [
+      "80d54368-f0ca-45ef-a100-eb68ec2c6463"
+    ]
+  },
+  {
+    "id": "fastapi_002",
+    "source": "FastAPI",
+    "query": "What happens when a requested blog ID does not exist?",
+    "ground_truth": "The example raises an HTTPException with status code 404 and a detail message saying that the blog with that ID does not exist.",
+    "relevant_nodes": [
+      "32e7d637-ab93-4543-b3c0-4c68387e659f",
+      "8ae5eebe-8f56-4e48-9f25-1a6d7955891e"
+    ]
+  },
+  {
+    "id": "fastapi_003",
+    "source": "FastAPI",
+    "query": "How is a blog deleted in the FastAPI example?",
+    "ground_truth": "A DELETE /blog/{id} endpoint deletes the matching Blog record with SQLAlchemy, commits the transaction, and returns 'done'. The route is configured with HTTP 204 No Content.",
+    "relevant_nodes": [
+      "32c3dbc6-6c69-4fcd-b4ac-14ccd84717c9"
+    ]
+  },
+  {
+    "id": "fastapi_004",
+    "source": "FastAPI",
+    "query": "How are API routes organized with APIRouter in the larger FastAPI application example?",
+    "ground_truth": "The application separates routes into router modules such as blog.py and user.py, creates APIRouter instances, and includes those routers from main.py with myapp.include_router(...).",
+    "relevant_nodes": [
+      "2501becd-a576-4eea-b030-36609b57d504",
+      "6dac24d5-7fe4-4cf1-b8ae-b54d639275f5"
+    ]
+  },
+  {
+    "id": "fastapi_005",
+    "source": "FastAPI",
+    "query": "What is the purpose of the prefix and tags arguments in the APIRouter example?",
+    "ground_truth": "The router uses a prefix such as /blog and tags such as Blogs so individual route definitions do not need to repeat the common path and Swagger documentation can group the endpoints.",
+    "relevant_nodes": [
+      "290465a2-17f9-410e-8bbf-d2399e7c1ea9"
+    ]
+  },
+  {
+    "id": "fastapi_006",
+    "source": "FastAPI",
+    "query": "How does the example create a new blog and save it to the database?",
+    "ground_truth": "The POST /blog endpoint constructs a models.Blog from the request title and body, adds it to the database session, commits the transaction, refreshes the object, and returns it.",
+    "relevant_nodes": [
+      "1a5fe269-1318-4f4b-9a26-4e645693ef46"
+    ]
+  },
+  {
+    "id": "fastapi_007",
+    "source": "FastAPI",
+    "query": "How does the FastAPI example hash a user's password before storing it?",
+    "ground_truth": "It uses passlib's CryptContext with bcrypt and calls pwd_context.hash(request.password) before creating the User model.",
+    "relevant_nodes": [
+      "19f5382f-9d14-4846-a66f-93bc937699ea"
+    ]
+  },
+  {
+    "id": "fastapi_008",
+    "source": "FastAPI",
+    "query": "How is JWT authentication added to protected routes in the example?",
+    "ground_truth": "An OAuth2PasswordBearer dependency extracts the token, get_current_user calls token verification, and protected routes depend on get_current_user so requests require a valid JWT.",
+    "relevant_nodes": [
+      "862349be-9f07-4e84-8971-cfd3f0cd5ba1"
+    ]
+  },
+  {
+    "id": "transformer_001",
+    "source": "Attention Is All You Need",
+    "query": "What is the main architectural idea behind the Transformer?",
+    "ground_truth": "The Transformer is a sequence transduction architecture based entirely on attention mechanisms, dispensing with recurrence and convolution.",
+    "relevant_nodes": [
+      "4545cf80-83a1-4e18-8014-b1c14950ec21",
+      "b2d580af-1c60-42c6-ace5-19bbf8ba1934"
+    ]
+  },
+  {
+    "id": "transformer_002",
+    "source": "Attention Is All You Need",
+    "query": "How many layers are in the base Transformer encoder and decoder stacks?",
+    "ground_truth": "Both the encoder and decoder are stacks of N = 6 identical layers.",
+    "relevant_nodes": [
+      "0ee96f49-3b01-49f3-b3d6-03f1c9607e9b"
+    ]
+  },
+  {
+    "id": "transformer_003",
+    "source": "Attention Is All You Need",
+    "query": "What are the two sub-layers in each Transformer encoder layer?",
+    "ground_truth": "Each encoder layer contains a multi-head self-attention mechanism followed by a position-wise fully connected feed-forward network.",
+    "relevant_nodes": [
+      "0ee96f49-3b01-49f3-b3d6-03f1c9607e9b"
+    ]
+  },
+  {
+    "id": "transformer_004",
+    "source": "Attention Is All You Need",
+    "query": "Why does the Transformer decoder mask future positions?",
+    "ground_truth": "The decoder masks subsequent positions so that the prediction at position i can depend only on known outputs at positions earlier than i.",
+    "relevant_nodes": [
+      "0ee96f49-3b01-49f3-b3d6-03f1c9607e9b"
+    ]
+  },
+  {
+    "id": "transformer_005",
+    "source": "Attention Is All You Need",
+    "query": "What is the computational complexity of self-attention per layer?",
+    "ground_truth": "For a sequence of length n and representation dimension d, self-attention has O(n^2 · d) complexity per layer.",
+    "relevant_nodes": [
+      "176cd74c-ba05-4992-88a8-40f558caee1e"
+    ]
+  },
+  {
+    "id": "transformer_006",
+    "source": "Attention Is All You Need",
+    "query": "How does the Transformer encode token position information?",
+    "ground_truth": "It adds positional encodings to the input embeddings. The paper uses sinusoidal sine and cosine functions at different frequencies, with the same dimensionality as the embeddings.",
+    "relevant_nodes": [
+      "5cb57d6a-b147-42af-90bf-c5c8810da78a"
+    ]
+  },
+  {
+    "id": "transformer_007",
+    "source": "Attention Is All You Need",
+    "query": "What optimizer and learning-rate schedule were used to train the Transformer?",
+    "ground_truth": "The authors used Adam with beta1 = 0.9, beta2 = 0.98, epsilon = 10^-9, and a learning-rate schedule with 4000 warmup steps that increases linearly during warmup and then decreases proportional to the inverse square root of the step number.",
+    "relevant_nodes": [
+      "0fd06fc4-0417-478a-902a-aa95b67da7e6"
+    ]
+  },
+  {
+    "id": "transformer_008",
+    "source": "Attention Is All You Need",
+    "query": "What BLEU score did the big Transformer achieve on WMT 2014 English-to-German?",
+    "ground_truth": "The big Transformer achieved a BLEU score of 28.4 on WMT 2014 English-to-German.",
+    "relevant_nodes": [
+      "4545cf80-83a1-4e18-8014-b1c14950ec21",
+      "5f5bf9b4-d453-4be9-96c0-88057ab653a5"
+    ]
+  },
+  {
+    "id": "fundraising_001",
+    "source": "DocSend seed fundraising report",
+    "query": "How many startups and how much total funding were included in the DocSend study?",
+    "ground_truth": "The study examined 200 startup companies that raised more than $360 million in total.",
+    "relevant_nodes": [
+      "38f5a738-96fe-42fe-b621-e92c87123ea5"
+    ]
+  },
+  {
+    "id": "fundraising_002",
+    "source": "DocSend seed fundraising report",
+    "query": "How long did the average successful seed fundraising round take?",
+    "ground_truth": "The average seed round took 12.5 weeks.",
+    "relevant_nodes": [
+      "b2d796e1-4b62-4ec8-bbeb-e5d557cfcd71",
+      "74cc2073-3574-4c21-9392-b03a67108a62"
+    ]
+  },
+  {
+    "id": "fundraising_003",
+    "source": "DocSend seed fundraising report",
+    "query": "What is the recommended number of investors to contact when raising a seed round?",
+    "ground_truth": "The report suggests creating a list of about 30 strong-fit investors; most startups in the dataset contacted only 20 to 30 investors to close their round.",
+    "relevant_nodes": [
+      "46af4200-9d8f-4ab0-8fca-a2a4c1468680",
+      "368202ca-9dee-4310-8634-b0741c123bcc"
+    ]
+  },
+  {
+    "id": "fundraising_004",
+    "source": "DocSend seed fundraising report",
+    "query": "Does contacting more investors necessarily lead to more funding?",
+    "ground_truth": "No. The report says more investor contacts can produce more meetings up to a point, but there is not much correlation between the number of investors contacted and funding raised; quality of investor connections matters more.",
+    "relevant_nodes": [
+      "1120f280-3777-471b-8284-4c12c2f11b68",
+      "368202ca-9dee-4310-8634-b0741c123bcc"
+    ]
+  },
+  {
+    "id": "fundraising_005",
+    "source": "DocSend seed fundraising report",
+    "query": "What are the typical investment ranges for angel investors and seed firms?",
+    "ground_truth": "Angels typically invest $25,000–$100,000, while seed firms usually invest $250,000–$1,000,000.",
+    "relevant_nodes": [
+      "56755ba9-12a7-4373-acaf-97e2f13aedd7"
+    ]
+  },
+  {
+    "id": "fundraising_006",
+    "source": "DocSend seed fundraising report",
+    "query": "Which business model raised the most money on average in the report's seed-funding comparison?",
+    "ground_truth": "Marketplace companies raised the most on average, at about $1,738,750.",
+    "relevant_nodes": [
+      "71878e4a-a350-4f9d-ab18-5192bf3bf360"
+    ]
+  },
+  {
+    "id": "fundraising_007",
+    "source": "DocSend seed fundraising report",
+    "query": "Which pitch-deck category received the most average time per page?",
+    "ground_truth": "Financials received the most average time per page at 23.2 seconds, followed by Team at 22.8 seconds.",
+    "relevant_nodes": [
+      "81c7d415-64ff-4a2e-ac73-fc9af2b7e9a7"
+    ]
+  },
+  {
+    "id": "fundraising_008",
+    "source": "DocSend seed fundraising report",
+    "query": "What does the report recommend about putting deal terms in a pitch deck?",
+    "ground_truth": "It recommends not listing deal terms in the deck and instead delivering them in person because terms can vary by investor.",
+    "relevant_nodes": [
+      "368202ca-b66c-4770-9b90-fb51f7a0b07c"
+    ]
+  },
+  {
+    "id": "resume_001",
+    "source": "Rupdeep Ray resume",
+    "query": "Where is Rupdeep Ray studying and what degree is he pursuing?",
+    "ground_truth": "He is pursuing a B.Tech in Computer Science and Engineering at the National Institute of Technology, Durgapur, from 2024 to 2028.",
+    "relevant_nodes": [
+      "1ca5fbee-e973-44e8-a374-4ab098734b47"
+    ]
+  },
+  {
+    "id": "resume_002",
+    "source": "Rupdeep Ray resume",
+    "query": "What programming languages are listed on Rupdeep Ray's resume?",
+    "ground_truth": "Python, C++, and SQL.",
+    "relevant_nodes": [
+      "8eca04eb-f72b-4136-bb2e-421cf4de3abd"
+    ]
+  },
+  {
+    "id": "resume_003",
+    "source": "Rupdeep Ray resume",
+    "query": "What technologies are listed under LLMs and AI agents?",
+    "ground_truth": "LangChain, LangGraph, Model Context Protocol, Retrieval Augmented Generation, Multi-Agent Systems, and Generative AI.",
+    "relevant_nodes": [
+      "8eca04eb-f72b-4136-bb2e-421cf4de3abd"
+    ]
+  },
+  {
+    "id": "resume_004",
+    "source": "Rupdeep Ray resume",
+    "query": "What does the AgentML project automate?",
+    "ground_truth": "AgentML is a multi-agent AutoML system designed to automate end-to-end machine-learning workflows, including dataset analysis, feature engineering, experimentation, and critique.",
+    "relevant_nodes": [
+      "8eca04eb-f72b-4136-bb2e-421cf4de3abd"
+    ]
+  },
+  {
+    "id": "resume_005",
+    "source": "Rupdeep Ray resume",
+    "query": "How many machine-learning algorithms did AgentML benchmark?",
+    "ground_truth": "AgentML benchmarked 8+ machine-learning algorithms and selected the best model using task-specific classification and regression metrics.",
+    "relevant_nodes": [
+      "8eca04eb-f72b-4136-bb2e-421cf4de3abd"
+    ]
+  },
+  {
+    "id": "resume_006",
+    "source": "Rupdeep Ray resume",
+    "query": "What validation accuracy did the SafeDrive eye-state classifier achieve?",
+    "ground_truth": "The CNN-based eye-state classifier achieved 96% validation accuracy for open/closed eye recognition.",
+    "relevant_nodes": [
+      "8eca04eb-f72b-4136-bb2e-421cf4de3abd"
+    ]
+  },
+  {
+    "id": "resume_007",
+    "source": "Rupdeep Ray resume",
+    "query": "What features does SafeDrive extract for temporal sequence modeling?",
+    "ground_truth": "It extracts Eye Aspect Ratio (EAR), Mouth Aspect Ratio (MAR), and head-pose signals including pitch, yaw, and roll.",
+    "relevant_nodes": [
+      "8eca04eb-f72b-4136-bb2e-421cf4de3abd"
+    ]
+  },
+  {
+    "id": "resume_008",
+    "source": "Rupdeep Ray resume",
+    "query": "What machine-learning and deep-learning libraries or techniques are listed on the resume?",
+    "ground_truth": "The resume lists Scikit-learn, TensorFlow, XGBoost, CNNs, LSTM/GRU models, Transformers, and SHAP.",
+    "relevant_nodes": [
+      "8eca04eb-f72b-4136-bb2e-421cf4de3abd"
+    ]
+  }
+]
