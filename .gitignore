@@ -88,3 +88,5 @@ app/embeddings/vector_store.py
 app/document_store
 
 app/processors
+
+app/retrieval
