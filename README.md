@@ -1,155 +1,270 @@
 # 🧠 InsightFlow AI
 
-> Hybrid Document Intelligence Platform powered by Semantic Retrieval and Knowledge Graphs.
+> AI-Powered Document Intelligence Platform for Structured Semantic Retrieval.
 
-InsightFlow AI is an end-to-end document understanding platform that transforms unstructured documents into searchable knowledge using semantic embeddings and structured knowledge graphs.
+InsightFlow AI is an end-to-end document intelligence platform that transforms unstructured documents into structured, searchable knowledge using document parsing, semantic Knowledge Units, vector embeddings, and semantic retrieval.
 
-Instead of relying solely on traditional Retrieval-Augmented Generation (RAG), InsightFlow AI combines vector retrieval with an Open Knowledge Format (OKF) graph to enable richer document understanding.
+The platform is built around a modular ingestion and retrieval pipeline, enabling different document representations and retrieval strategies to be systematically developed and evaluated.
 
 ---
 
 # ✨ Features
 
-- 📄 Multi-document upload
-    - PDF
-    - DOCX
-    - TXT
-
-- 🔍 Automatic document parsing
-
+- 📄 Multi-document ingestion
+  - PDF
+  - DOCX
+  - TXT
+- 🔍 Structured document parsing using Docling
 - 🧩 Semantic Knowledge Unit generation
-
-- 🧠 Embedding generation using BGE embeddings
-
-- ⚡ High-speed semantic search using FAISS
-
-- 🌐 Automatic Knowledge Graph generation using Gemini
-
-- 💬 Conversational document chat
-
+- 🧠 Context-aware Knowledge Unit enrichment
+- ⚡ BGE-based semantic embeddings
+- 🔎 Vector similarity search using Qdrant
+- 📊 Quantitative retrieval evaluation
+- 🧪 LlamaIndex node-based retrieval baseline
+- 💬 Conversational document question answering
 - 🗂 Conversation history
-
 - ⚙ Modular FastAPI backend
-
 - 🎨 Streamlit frontend
 
 ---
 
 # 🏗 Architecture
 
-```
+```text
                     ┌──────────────────────────┐
                     │     Upload Document      │
                     └─────────────┬────────────┘
                                   │
                                   ▼
-                     Document Parsing Pipeline
+                    ┌──────────────────────────┐
+                    │     Docling Parser       │
+                    │  Document Structure      │
+                    │       Extraction         │
+                    └─────────────┬────────────┘
                                   │
                                   ▼
-                     Knowledge Unit Generation
-                        │                 │
-                        │                 │
-                        ▼                 ▼
-               Embedding Generator     OKF Extraction
-                        │                 │
-                        ▼                 ▼
-                    FAISS Index      Knowledge Graph
-                        │                 │
-                        └────────┬────────┘
-                                 ▼
-                         Hybrid Retrieval
-                                 ▼
-                            Gemini 2.5 Flash
-                                 ▼
-                           Streamlit Chat UI
+                    ┌──────────────────────────┐
+                    │   Structural Blocks      │
+                    │ Text / Lists / Tables /  │
+                    │ Sections / Other Blocks  │
+                    └─────────────┬────────────┘
+                                  │
+                                  ▼
+                    ┌──────────────────────────┐
+                    │   Knowledge Unit         │
+                    │      Generation          │
+                    │                          │
+                    │ Sentence Splitting       │
+                    │ Semantic Grouping        │
+                    │ Context Enrichment       │
+                    └─────────────┬────────────┘
+                                  │
+                                  ▼
+                    ┌──────────────────────────┐
+                    │     BGE Embeddings       │
+                    │      1024 dimensions     │
+                    └─────────────┬────────────┘
+                                  │
+                                  ▼
+                    ┌──────────────────────────┐
+                    │     Qdrant Vector DB     │
+                    │   Knowledge Unit Index   │
+                    └─────────────┬────────────┘
+                                  │
+                                  ▼
+                    ┌──────────────────────────┐
+                    │   Semantic Retrieval     │
+                    └─────────────┬────────────┘
+                                  │
+                                  ▼
+                    ┌──────────────────────────┐
+                    │       LLM Response       │
+                    └──────────────────────────┘
 ```
+
+## 🧩 Knowledge Unit Representation
+
+InsightFlow AI uses Knowledge Units (KUs) as an intermediate representation between document parsing and vector retrieval.
+
+Instead of directly embedding arbitrary fixed-size text chunks, the ingestion pipeline first extracts structurally meaningful content from the document.
+
+Knowledge Units are generated by:
+
+1. Extracting structural blocks from the parsed document.
+2. Identifying meaningful textual content.
+3. Splitting text into sentences.
+4. Grouping semantically related adjacent sentences.
+5. Adding section and heading context.
+6. Generating embeddings for the resulting Knowledge Units.
+
+Each Knowledge Unit contains information such as:
+
+```text
+Knowledge Unit
+├── KU ID
+├── Parent / source reference
+├── Content
+└── Metadata
+    ├── Document
+    ├── Section / heading context
+    └── Structural information
+```
+
+This representation provides a structured unit of retrieval while preserving document context.
+
+## 🔍 Retrieval
+
+Knowledge Units are embedded using BAAI BGE Small v1.5.
+
+The resulting embeddings are indexed in Qdrant for semantic similarity search.
+
+The current retrieval pipeline:
+
+1. Embeds the user query using BGE.
+2. Searches the Knowledge Unit vector collection.
+3. Retrieves the most relevant Knowledge Units.
+4. Uses the retrieved context for downstream question answering.
+
+The vector storage layer is kept modular so that different vector databases or retrieval implementations can be evaluated without tightly coupling the application to the underlying storage system.
+
+## 📊 Retrieval Evaluation
+
+InsightFlow AI includes a reproducible retrieval evaluation framework for quantitatively comparing different document representations.
+
+A manually curated benchmark containing 32 questions was created across multiple document types and topics.
+
+The benchmark contains:
+
+- 8 FastAPI questions
+- 8 Transformer / "Attention Is All You Need" questions
+- 8 Fundraising / pitch-deck questions
+- 8 Resume questions
+
+Both the Knowledge Unit representation and the LlamaIndex node-based representation are evaluated using the same query set, embedding model, vector retrieval setup, and Top-5 retrieval setting.
+
+### Evaluation Metrics
+
+- Precision@5
+- Recall@5
+- Mean Reciprocal Rank (MRR)
+- Normalized Discounted Cumulative Gain (NDCG@5)
+
+### Current Results
+
+| Retrieval Representation | Precision@5 | Recall@5 | MRR | NDCG@5 |
+| --- | ---: | ---: | ---: | ---: |
+| LlamaIndex Node Baseline | 18.75% | 76.56% | 72.66% | 71.17% |
+| Knowledge Units | 12.50% | 51.56% | 43.26% | 44.08% |
+
+The current results establish the LlamaIndex node representation as the stronger baseline under the present evaluation setup.
+
+The purpose of the benchmark is to provide a reproducible framework for measuring the effect of changes to Knowledge Unit granularity, semantic grouping, contextual enrichment, and retrieval strategies.
+
+## 🧪 Baseline Comparison
+
+The project uses a LlamaIndex node-based representation as the retrieval baseline.
+
+```text
+LlamaIndex Node Baseline
+Document
+    │
+    ▼
+LlamaIndex Nodes
+    │
+    ▼
+BGE Embeddings
+    │
+    ▼
+Vector Retrieval
+
+Knowledge Unit Pipeline
+Document
+    │
+    ▼
+Docling Structural Parsing
+    │
+    ▼
+Structural Blocks
+    │
+    ▼
+Knowledge Units
+    │
+    ▼
+Context Enrichment
+    │
+    ▼
+BGE Embeddings
+    │
+    ▼
+Qdrant Retrieval
+```
+
+Both representations are evaluated using the same 32-query benchmark and Top-5 retrieval metrics.
+
+This provides a controlled baseline for investigating whether alternative document representations can improve retrieval quality.
 
 ---
 
 # 🛠 Tech Stack
 
-## Backend
-
-- FastAPI
-- Python
-
-## Database
-
-- MongoDB
-
-## Embeddings
-
-- BAAI BGE Small v1.5
-
-## Vector Search
-
-- FAISS
-
-## Knowledge Graph
-
-- Custom Open Knowledge Format (OKF)
-
-## LLM
-
-- Gemini 2.5 Flash
-
-## Frontend
-
-- Streamlit
+| Area | Technology |
+| --- | --- |
+| Backend | Python, FastAPI |
+| Document Processing | Docling, spaCy |
+| Embeddings | BAAI BGE Small v1.5 |
+| Vector Search | Qdrant |
+| Database | MongoDB |
+| LLM | Google Gemini |
+| Frontend | Streamlit |
+| Development | uv, Git, GitHub |
 
 ---
 
 # 📂 Project Structure
 
-```
+```text
 InsightFlow/
 │
-<!-- ├── app/ -->
+├── app/
 │   ├── api/
 │   ├── database/
-│   ├── parsers/
 │   ├── processors/
 │   ├── knowledge_units/
 │   ├── embeddings/
 │   ├── retrieval/
-│   ├── okf/
 │   ├── llm/
-│   └── document_store/
-│   └── retrieval/
-|   └── chat/
-|
+│   ├── document_store/
+│   └── chat/
+│
 ├── frontend/
-│
+├── evaluation/
 ├── storage/
-│
 ├── uploads/
-│
 ├── pyproject.toml
 └── README.md
 ```
 
 ---
 
-# ⚙ Installation
+# ⚙️ Installation
 
-Clone the repository
+Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/InsightFlow.git
-
+git clone https://github.com/Heisenberg9924/InsightFlow.git
 cd InsightFlow
 ```
 
-Install dependencies
+Install dependencies:
 
 ```bash
 uv sync
 ```
 
-Create a `.env`
+Configure environment variables by creating a `.env` file:
 
 ```env
-GEMINI_API_KEY=YOUR_API_KEY
+GENAI_API_KEY=YOUR_API_KEY
 MONGODB_URI=mongodb://localhost:27017
 GEMINI_MODEL=gemini-2.5-flash
 ```
@@ -158,21 +273,15 @@ GEMINI_MODEL=gemini-2.5-flash
 
 # 🚀 Running the Backend
 
+Start the FastAPI development server:
+
 ```bash
 uv run fastapi dev
 ```
 
-Backend
+Backend: <http://127.0.0.1:8000>
 
-```
-http://127.0.0.1:8000
-```
-
-API Docs
-
-```
-http://127.0.0.1:8000/docs
-```
+API documentation: <http://127.0.0.1:8000/docs>
 
 ---
 
@@ -187,61 +296,78 @@ uv run streamlit run frontend/app.py
 # 💬 How It Works
 
 1. Upload a document.
-2. The document is parsed into semantic sections.
-3. Sections are converted into Knowledge Units.
-4. Knowledge Units are embedded using BGE.
-5. Gemini extracts entities and relationships to generate an OKF Knowledge Graph.
-6. Embeddings are indexed in FAISS.
-7. User questions retrieve relevant semantic context.
-8. The retrieved context is sent to Gemini to generate grounded answers.
+2. Docling parses the document and extracts its structural elements.
+3. Structural blocks are filtered and processed.
+4. Text content is split into sentences.
+5. Semantically related adjacent sentences are grouped into Knowledge Units.
+6. Section and heading context is added to the Knowledge Units.
+7. BGE generates embeddings for each Knowledge Unit.
+8. Embeddings are indexed in Qdrant.
+9. A user query is embedded using the same embedding model.
+10. Qdrant retrieves the most relevant Knowledge Units.
+11. Retrieved context is passed to the LLM for grounded question answering.
 
 ---
 
-# 🧠 Open Knowledge Format (OKF)
+# 📈 Current Development Status
 
-InsightFlow AI introduces an intermediate structured representation called the **Open Knowledge Format (OKF)**.
+## Implemented
 
-Each document is transformed into a graph containing:
+- [x] Docling-based document parsing
+- [x] Structural block extraction
+- [x] Semantic Knowledge Unit generation
+- [x] Sentence-level semantic grouping
+- [x] Section and heading context enrichment
+- [x] BGE embedding generation
+- [x] Qdrant vector indexing
+- [x] Semantic vector retrieval
+- [x] 32-query retrieval benchmark
+- [x] Precision@5 evaluation
+- [x] Recall@5 evaluation
+- [x] MRR evaluation
+- [x] NDCG@5 evaluation
+- [x] LlamaIndex node-based baseline comparison
 
-- Nodes
-- Relationships
-- Properties
+## In Progress
 
-Example
+- [ ] Knowledge Unit granularity optimization
+- [ ] Retrieval quality improvements
+- [ ] Expanded retrieval evaluation benchmark
 
-```
-Python ──USES──► FastAPI
-FastAPI ──USES──► REST API
-```
-
-The graph is used alongside semantic retrieval to provide additional structured context during question answering.
-
+---
 
 # 🚧 Current Limitations
 
-- Graph retrieval currently performs lightweight entity matching.
-- FAISS is used as the development vector database.
-- Graph reasoning and multi-hop traversal are planned for future releases.
+- The current Knowledge Unit representation does not yet outperform the LlamaIndex node-based baseline.
+- The evaluation benchmark currently contains 32 questions.
+- Retrieval is currently evaluated using Top-5 results.
+- Further optimization of Knowledge Unit granularity and semantic grouping is required.
+- Graph-based retrieval and multi-hop reasoning are not currently part of the evaluated retrieval pipeline.
 
 ---
 
-# 🔮 Roadmap
+# 🔮 Future Direction
 
-- Hybrid GraphRAG Retrieval
+InsightFlow AI is designed to eventually evolve beyond vector-only retrieval toward structured GraphRAG.
 
-- Multi-hop Knowledge Graph Traversal
+A future version can introduce an intermediate structured knowledge representation containing:
 
-- Neo4j Integration
+- Entities
+- Relationships
+- Properties
 
-- Qdrant Vector Database
+This can enable:
 
-- Cross-Encoder Re-ranking
+- Hybrid vector + graph retrieval
+- Multi-hop knowledge graph traversal
+- Graph-based context augmentation
+- Neo4j integration
+- Cross-encoder re-ranking
+- Agentic document analysis
+- Executive report generation
+- Knowledge graph visualization
 
-- Agentic Document Analysis
-
-- Executive Report Generation
-
-- Knowledge Graph Visualization
+The GraphRAG layer is currently a planned extension rather than part of the validated retrieval benchmark.
 
 ---
 
@@ -261,10 +387,10 @@ This project is licensed under the MIT License.
 
 # 👨‍💻 Author
 
-**Rupdeep Ray**
+Rupdeep Ray
 
 B.Tech Computer Science and Engineering
 
 National Institute of Technology Durgapur
 
-GitHub: https://github.com/Heisenberg9924
+GitHub: <https://github.com/Heisenberg9924>
